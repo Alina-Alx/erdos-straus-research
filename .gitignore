@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local/generated research outputs
+# The project can generate very large CSV matrices. Keep only curated small
+# snapshots under data/ and reports/ in git.
+*.csv
+!data/*.csv
+
+# Large ad-hoc output directories
+outputs/
+artifacts/
+scratch/
+tmp/
+
+# Proof artifacts should only be committed intentionally after review.
+proof_certificate.md

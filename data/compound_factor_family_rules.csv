@@ -1,0 +1,182 @@
+d,a,b,q,dominant_prime,support_count,extra_moduli,extra_condition_count,prime_condition,extra_conditions,compound_conditions_enough,status
+11,15,29,1740,29,17381,5,1,"n mod 29 in {0,18}","n mod 5 in {0,4}",True,passed
+19,14,62,868,31,15360,7,1,"n mod 31 in {0,12}","n mod 7 in {0,2}",True,passed
+7,11,17,748,17,13361,11,1,"n mod 17 in {0,10}","n mod 11 in {0,4}",True,passed
+19,5,71,1420,71,11771,5,1,"n mod 71 in {0,52}","n mod 5 in {0,1}",True,passed
+39,20,136,680,17,7987,5,1,"n mod 17 in {0,12}","n mod 5 in {0,1}",True,passed
+39,1,155,620,31,7572,5,1,"n mod 31 in {0,23}","n mod 5 in {0,1}",True,passed
+23,18,74,1332,37,7048,9,1,"n mod 37 in {0,14}","n mod 9 in {0,4}",True,passed
+23,9,83,2988,83,6460,9,1,"n mod 83 in {0,60}","n mod 9 in {0,4}",True,passed
+59,6,230,1380,23,5977,5,1,"n mod 23 in {0,10}","n mod 5 in {0,1}",True,passed
+11,17,27,1836,17,4915,27,1,"n mod 17 in {0,6}","n mod 27 in {0,16}",True,passed
+47,16,172,688,43,4685,16,1,"n mod 43 in {0,39}","n mod 16 in {0,1}",True,passed
+31,32,92,736,23,4490,32,1,"n mod 23 in {0,15}","n mod 32 in {0,1}",True,passed
+23,39,53,8268,53,4415,13,1,"n mod 53 in {0,30}","n mod 13 in {0,3}",True,passed
+27,14,94,1316,47,4110,7,1,"n mod 47 in {0,20}","n mod 7 in {0,1}",True,passed
+39,10,146,1460,73,3962,5,1,"n mod 73 in {0,34}","n mod 5 in {0,1}",True,passed
+23,16,76,304,19,3805,16,1,"n mod 19 in {0,15}","n mod 16 in {0,9}",True,passed
+35,18,122,2196,61,1530,9,1,"n mod 61 in {0,26}","n mod 9 in {0,1}",True,passed
+15,23,37,3404,37,1520,23,1,"n mod 37 in {0,22}","n mod 23 in {0,8}",True,passed
+35,9,131,4716,131,1433,9,1,"n mod 131 in {0,96}","n mod 9 in {0,1}",True,passed
+23,13,79,4108,79,1121,13,1,"n mod 79 in {0,56}","n mod 13 in {0,3}",True,passed
+59,1,235,940,47,1086,5,1,"n mod 47 in {0,35}","n mod 5 in {0,1}",True,passed
+39,5,151,3020,151,1072,5,1,"n mod 151 in {0,112}","n mod 5 in {0,1}",True,passed
+59,14,222,3108,37,1059,7,1,"n mod 37 in {0,15}","n mod 7 in {0,4}",True,passed
+47,36,152,1368,19,1053,9,1,"n mod 19 in {0,10}","n mod 9 in {0,7}",True,passed
+23,38,54,2052,19,1032,27,1,"n mod 19 in {0,15}","n mod 27 in {0,4}",True,passed
+47,72,116,2088,29,1010,9,1,"n mod 29 in {0,11}","n mod 9 in {0,7}",True,passed
+47,42,146,6132,73,991,7,1,"n mod 73 in {0,26}","n mod 7 in {0,2}",True,passed
+19,35,41,5740,41,970,5;7,2,"n mod 41 in {0,22}","n mod 5 in {0,1} AND n mod 7 in {0,2}",True,passed
+43,29,143,16588,29,951,11;13,2,"n mod 29 in {0,15}","n mod 11 in {0,1} AND n mod 13 in {0,9}",True,passed
+51,10,194,1940,97,934,5,1,"n mod 97 in {0,46}","n mod 5 in {0,4}",True,passed
+19,23,53,4876,53,934,23,1,"n mod 53 in {0,34}","n mod 23 in {0,4}",True,passed
+95,12,368,1104,23,913,16,1,"n mod 23 in {0,20}","n mod 16 in {0,1}",True,passed
+63,16,236,944,59,869,16,1,"n mod 59 in {0,55}","n mod 16 in {0,1}",True,passed
+39,46,110,5060,23,840,5;11,2,"n mod 23 in {0,7}","n mod 5 in {0,1} AND n mod 11 in {0,5}",True,passed
+31,56,68,952,17,820,7,1,"n mod 17 in {0,3}","n mod 7 in {0,4}",True,passed
+27,26,82,2132,41,820,13,1,"n mod 41 in {0,14}","n mod 13 in {0,12}",True,passed
+79,20,296,1480,37,814,5,1,"n mod 37 in {0,32}","n mod 5 in {0,1}",True,passed
+59,10,226,2260,113,811,5,1,"n mod 113 in {0,54}","n mod 5 in {0,1}",True,passed
+15,17,43,2924,43,789,17,1,"n mod 43 in {0,28}","n mod 17 in {0,2}",True,passed
+59,30,206,6180,103,765,5,1,"n mod 103 in {0,44}","n mod 5 in {0,1}",True,passed
+47,9,179,6444,179,764,9,1,"n mod 179 in {0,132}","n mod 9 in {0,7}",True,passed
+43,26,146,3796,73,763,13,1,"n mod 73 in {0,30}","n mod 13 in {0,9}",True,passed
+55,32,188,1504,47,753,32,1,"n mod 47 in {0,39}","n mod 32 in {0,9}",True,passed
+71,120,164,4920,41,748,5,1,"n mod 41 in {0,11}","n mod 5 in {0,4}",True,passed
+31,50,74,3700,37,748,25,1,"n mod 37 in {0,6}","n mod 25 in {0,19}",True,passed
+71,72,212,3816,53,745,9,1,"n mod 53 in {0,35}","n mod 9 in {0,1}",True,passed
+39,64,92,1472,23,729,64,1,"n mod 23 in {0,7}","n mod 64 in {0,25}",True,passed
+71,36,248,2232,31,729,9,1,"n mod 31 in {0,22}","n mod 9 in {0,1}",True,passed
+47,14,174,2436,29,728,7,1,"n mod 29 in {0,11}","n mod 7 in {0,2}",True,passed
+27,7,101,2828,101,725,7,1,"n mod 101 in {0,74}","n mod 7 in {0,1}",True,passed
+39,40,116,1160,29,718,5,1,"n mod 29 in {0,19}","n mod 5 in {0,1}",True,passed
+35,11,129,5676,43,704,11,1,"n mod 43 in {0,8}","n mod 11 in {0,9}",True,passed
+35,66,74,4884,37,689,11,1,"n mod 37 in {0,2}","n mod 11 in {0,9}",True,passed
+71,16,268,1072,67,670,16,1,"n mod 67 in {0,63}","n mod 16 in {0,9}",True,passed
+71,48,236,2832,59,665,16,1,"n mod 59 in {0,47}","n mod 16 in {0,9}",True,passed
+71,5,279,5580,31,646,9;5,2,"n mod 31 in {0,22}","n mod 9 in {0,1} AND n mod 5 in {0,4}",True,passed
+23,31,61,7564,61,644,31,1,"n mod 61 in {0,38}","n mod 31 in {0,8}",True,passed
+47,21,167,14028,167,628,7,1,"n mod 167 in {0,120}","n mod 7 in {0,2}",True,passed
+71,12,272,816,17,622,16,1,"n mod 17 in {0,14}","n mod 16 in {0,9}",True,passed
+71,40,244,2440,61,621,5,1,"n mod 61 in {0,51}","n mod 5 in {0,4}",True,passed
+35,54,86,4644,43,619,27,1,"n mod 43 in {0,8}","n mod 27 in {0,19}",True,passed
+95,36,344,3096,43,615,9,1,"n mod 43 in {0,34}","n mod 9 in {0,4}",True,passed
+47,7,181,5068,181,604,7,1,"n mod 181 in {0,134}","n mod 7 in {0,2}",True,passed
+35,27,113,12204,113,599,27,1,"n mod 113 in {0,78}","n mod 27 in {0,19}",True,passed
+59,50,186,9300,31,585,25,1,"n mod 31 in {0,3}","n mod 25 in {0,16}",True,passed
+55,104,116,3016,29,556,13,1,"n mod 29 in {0,3}","n mod 13 in {0,10}",True,passed
+27,46,62,2852,31,551,23,1,"n mod 31 in {0,4}","n mod 23 in {0,19}",True,passed
+71,30,254,7620,127,549,5,1,"n mod 127 in {0,56}","n mod 5 in {0,4}",True,passed
+51,5,199,3980,199,527,5,1,"n mod 199 in {0,148}","n mod 5 in {0,4}",True,passed
+39,32,124,992,31,517,32,1,"n mod 31 in {0,23}","n mod 32 in {0,25}",True,passed
+59,18,218,3924,109,515,9,1,"n mod 109 in {0,50}","n mod 9 in {0,4}",True,passed
+39,50,106,5300,53,505,25,1,"n mod 53 in {0,14}","n mod 25 in {0,11}",True,passed
+35,22,118,2596,59,500,11,1,"n mod 59 in {0,24}","n mod 11 in {0,9}",True,passed
+59,9,227,8172,227,487,9,1,"n mod 227 in {0,168}","n mod 9 in {0,4}",True,passed
+19,29,47,5452,47,485,29,1,"n mod 47 in {0,28}","n mod 29 in {0,10}",True,passed
+31,35,89,12460,89,461,5;7,2,"n mod 89 in {0,58}","n mod 5 in {0,4} AND n mod 7 in {0,4}",True,passed
+63,88,164,3608,41,459,11,1,"n mod 41 in {0,19}","n mod 11 in {0,3}",True,passed
+95,52,328,4264,41,459,13,1,"n mod 41 in {0,28}","n mod 13 in {0,9}",True,passed
+119,12,464,1392,29,459,16,1,"n mod 29 in {0,26}","n mod 16 in {0,9}",True,passed
+19,17,59,4012,59,452,17,1,"n mod 59 in {0,40}","n mod 17 in {0,15}",True,passed
+95,6,374,2244,17,445,11,1,"n mod 17 in {0,7}","n mod 11 in {0,4}",True,passed
+15,19,41,3116,41,436,19,1,"n mod 41 in {0,26}","n mod 19 in {0,4}",True,passed
+75,1,299,1196,23,435,13,1,"n mod 23 in {0,17}","n mod 13 in {0,3}",True,passed
+87,7,341,9548,31,423,7;11,2,"n mod 31 in {0,6}","n mod 7 in {0,4} AND n mod 11 in {0,1}",True,passed
+63,64,188,3008,47,421,64,1,"n mod 47 in {0,31}","n mod 64 in {0,1}",True,passed
+55,56,164,2296,41,418,7,1,"n mod 41 in {0,27}","n mod 7 in {0,1}",True,passed
+119,6,470,2820,47,414,5,1,"n mod 47 in {0,22}","n mod 5 in {0,1}",True,passed
+75,13,287,14924,41,412,7;13,2,"n mod 41 in {0,7}","n mod 7 in {0,2} AND n mod 13 in {0,3}",True,passed
+95,3,377,4524,29,405,13,1,"n mod 29 in {0,21}","n mod 13 in {0,9}",True,passed
+47,54,134,7236,67,401,27,1,"n mod 67 in {0,20}","n mod 27 in {0,7}",True,passed
+111,20,424,2120,53,383,5,1,"n mod 53 in {0,48}","n mod 5 in {0,4}",True,passed
+39,22,134,2948,67,381,11,1,"n mod 67 in {0,28}","n mod 11 in {0,5}",True,passed
+87,16,332,1328,83,379,16,1,"n mod 83 in {0,79}","n mod 16 in {0,9}",True,passed
+119,16,460,1840,23,371,16;5,2,"n mod 23 in {0,19}","n mod 16 in {0,9} AND n mod 5 in {0,1}",True,passed
+55,26,194,5044,97,369,13,1,"n mod 97 in {0,42}","n mod 13 in {0,10}",True,passed
+35,38,102,3876,19,368,17,1,"n mod 19 in {0,3}","n mod 17 in {0,16}",True,passed
+55,92,128,2944,23,361,128,1,"n mod 23 in {0,14}","n mod 128 in {0,73}",True,passed
+59,42,194,8148,97,360,7,1,"n mod 97 in {0,38}","n mod 7 in {0,4}",True,passed
+27,47,61,11468,61,357,47,1,"n mod 61 in {0,34}","n mod 47 in {0,20}",True,passed
+59,21,215,18060,43,355,5;7,2,"n mod 43 in {0,27}","n mod 5 in {0,1} AND n mod 7 in {0,4}",True,passed
+131,6,518,3108,37,339,7,1,"n mod 37 in {0,17}","n mod 7 in {0,2}",True,passed
+55,14,206,2884,103,337,7,1,"n mod 103 in {0,48}","n mod 7 in {0,1}",True,passed
+83,66,266,17556,19,336,7;11,2,"n mod 19 in {0,12}","n mod 7 in {0,1} AND n mod 11 in {0,5}",True,passed
+79,32,284,2272,71,331,32,1,"n mod 71 in {0,63}","n mod 32 in {0,17}",True,passed
+59,7,229,6412,229,330,7,1,"n mod 229 in {0,170}","n mod 7 in {0,4}",True,passed
+95,48,332,3984,83,330,16,1,"n mod 83 in {0,71}","n mod 16 in {0,1}",True,passed
+39,25,131,13100,131,328,25,1,"n mod 131 in {0,92}","n mod 25 in {0,11}",True,passed
+35,41,99,16236,41,322,9;11,2,"n mod 41 in {0,6}","n mod 9 in {0,1} AND n mod 11 in {0,9}",True,passed
+95,26,354,9204,59,322,13,1,"n mod 59 in {0,23}","n mod 13 in {0,9}",True,passed
+119,32,444,3552,37,320,32,1,"n mod 37 in {0,29}","n mod 32 in {0,9}",True,passed
+31,38,86,3268,43,318,19,1,"n mod 43 in {0,12}","n mod 19 in {0,7}",True,passed
+35,47,93,17484,47,316,31,1,"n mod 47 in {0,12}","n mod 31 in {0,27}",True,passed
+27,34,74,2516,37,311,17,1,"n mod 37 in {0,10}","n mod 17 in {0,7}",True,passed
+35,17,123,8364,41,304,17,1,"n mod 41 in {0,6}","n mod 17 in {0,16}",True,passed
+59,90,146,13140,73,304,9;5,2,"n mod 73 in {0,14}","n mod 9 in {0,4} AND n mod 5 in {0,1}",True,passed
+71,10,274,2740,137,291,5,1,"n mod 137 in {0,66}","n mod 5 in {0,4}",True,passed
+87,56,292,4088,73,289,7,1,"n mod 73 in {0,59}","n mod 7 in {0,4}",True,passed
+79,80,236,4720,59,285,16;5,2,"n mod 59 in {0,39}","n mod 16 in {0,1} AND n mod 5 in {0,1}",True,passed
+23,19,73,5548,73,282,19,1,"n mod 73 in {0,50}","n mod 19 in {0,15}",True,passed
+71,68,216,3672,17,281,27,1,"n mod 17 in {0,14}","n mod 27 in {0,10}",True,passed
+35,33,107,14124,107,277,11,1,"n mod 107 in {0,72}","n mod 11 in {0,9}",True,passed
+59,86,150,12900,43,277,25,1,"n mod 43 in {0,27}","n mod 25 in {0,16}",True,passed
+95,68,312,5304,17,274,13,1,"n mod 17 in {0,7}","n mod 13 in {0,9}",True,passed
+143,56,516,7224,43,272,7,1,"n mod 43 in {0,29}","n mod 7 in {0,4}",True,passed
+71,15,269,16140,269,270,5,1,"n mod 269 in {0,198}","n mod 5 in {0,4}",True,passed
+59,70,166,11620,83,267,5;7,2,"n mod 83 in {0,24}","n mod 5 in {0,1} AND n mod 7 in {0,4}",True,passed
+51,46,158,7268,79,266,23,1,"n mod 79 in {0,28}","n mod 23 in {0,18}",True,passed
+87,14,334,4676,167,265,7,1,"n mod 167 in {0,80}","n mod 7 in {0,4}",True,passed
+63,68,184,3128,23,262,17,1,"n mod 23 in {0,6}","n mod 17 in {0,5}",True,passed
+99,1,395,1580,79,260,5,1,"n mod 79 in {0,59}","n mod 5 in {0,1}",True,passed
+35,29,111,12876,37,257,29,1,"n mod 37 in {0,2}","n mod 29 in {0,23}",True,passed
+87,32,316,2528,79,245,32,1,"n mod 79 in {0,71}","n mod 32 in {0,9}",True,passed
+95,96,284,6816,71,245,32,1,"n mod 71 in {0,47}","n mod 32 in {0,1}",True,passed
+35,57,83,18924,83,243,19,1,"n mod 83 in {0,48}","n mod 19 in {0,3}",True,passed
+59,45,191,34380,191,239,9;5,2,"n mod 191 in {0,132}","n mod 9 in {0,4} AND n mod 5 in {0,1}",True,passed
+39,55,101,22220,101,232,5;11,2,"n mod 101 in {0,62}","n mod 5 in {0,1} AND n mod 11 in {0,5}",True,passed
+83,18,314,5652,157,230,9,1,"n mod 157 in {0,74}","n mod 9 in {0,7}",True,passed
+35,34,106,3604,53,226,17,1,"n mod 53 in {0,18}","n mod 17 in {0,16}",True,passed
+59,35,201,28140,67,225,5;7,2,"n mod 67 in {0,8}","n mod 5 in {0,1} AND n mod 7 in {0,4}",True,passed
+59,63,173,43596,173,225,9;7,2,"n mod 173 in {0,114}","n mod 9 in {0,4} AND n mod 7 in {0,4}",True,passed
+83,3,329,3948,47,225,7,1,"n mod 47 in {0,11}","n mod 7 in {0,1}",True,passed
+79,5,311,6220,311,223,5,1,"n mod 311 in {0,232}","n mod 5 in {0,1}",True,passed
+167,12,656,1968,41,221,16,1,"n mod 41 in {0,38}","n mod 16 in {0,9}",True,passed
+95,32,348,2784,29,220,32,1,"n mod 29 in {0,21}","n mod 32 in {0,1}",True,passed
+191,20,744,3720,31,219,5,1,"n mod 31 in {0,26}","n mod 5 in {0,4}",True,passed
+75,118,182,21476,59,217,7;13,2,"n mod 59 in {0,43}","n mod 7 in {0,2} AND n mod 13 in {0,3}",True,passed
+27,19,89,6764,89,216,19,1,"n mod 89 in {0,62}","n mod 19 in {0,11}",True,passed
+79,104,212,5512,53,214,13,1,"n mod 53 in {0,27}","n mod 13 in {0,12}",True,passed
+51,11,193,8492,193,213,11,1,"n mod 193 in {0,142}","n mod 11 in {0,4}",True,passed
+143,36,536,4824,67,211,9,1,"n mod 67 in {0,58}","n mod 9 in {0,1}",True,passed
+27,29,79,9164,79,204,29,1,"n mod 79 in {0,52}","n mod 29 in {0,2}",True,passed
+103,56,356,4984,89,202,7,1,"n mod 89 in {0,75}","n mod 7 in {0,2}",True,passed
+71,124,160,4960,31,200,32;5,2,"n mod 31 in {0,22}","n mod 32 in {0,25} AND n mod 5 in {0,4}",True,passed
+143,14,558,7812,31,199,9;7,2,"n mod 31 in {0,12}","n mod 9 in {0,1} AND n mod 7 in {0,4}",True,passed
+95,78,302,23556,151,198,13,1,"n mod 151 in {0,56}","n mod 13 in {0,9}",True,passed
+27,41,67,10988,67,198,41,1,"n mod 67 in {0,40}","n mod 41 in {0,14}",True,passed
+79,128,188,6016,47,196,128,1,"n mod 47 in {0,15}","n mod 128 in {0,49}",True,passed
+63,116,136,3944,29,196,17,1,"n mod 29 in {0,24}","n mod 17 in {0,5}",True,passed
+191,24,740,4440,37,195,5,1,"n mod 37 in {0,31}","n mod 5 in {0,4}",True,passed
+119,72,404,7272,101,193,9,1,"n mod 101 in {0,83}","n mod 9 in {0,7}",True,passed
+111,16,428,1712,107,191,16,1,"n mod 107 in {0,103}","n mod 16 in {0,1}",True,passed
+31,23,101,9292,101,190,23,1,"n mod 101 in {0,70}","n mod 23 in {0,15}",True,passed
+111,100,344,8600,43,190,25,1,"n mod 43 in {0,18}","n mod 25 in {0,14}",True,passed
+83,14,318,4452,53,186,7,1,"n mod 53 in {0,23}","n mod 7 in {0,1}",True,passed
+35,58,82,4756,41,186,29,1,"n mod 41 in {0,6}","n mod 29 in {0,23}",True,passed
+75,7,293,8204,293,185,7,1,"n mod 293 in {0,218}","n mod 7 in {0,2}",True,passed
+35,19,121,9196,19,183,121,1,"n mod 19 in {0,3}","n mod 121 in {0,86}",True,passed
+191,12,752,2256,47,181,16,1,"n mod 47 in {0,44}","n mod 16 in {0,1}",True,passed
+27,37,71,10508,71,180,37,1,"n mod 71 in {0,44}","n mod 37 in {0,10}",True,passed
+51,25,179,17900,179,179,25,1,"n mod 179 in {0,128}","n mod 25 in {0,24}",True,passed
+103,188,224,10528,47,178,32;7,2,"n mod 47 in {0,38}","n mod 32 in {0,25} AND n mod 7 in {0,2}",True,passed
+111,40,404,4040,101,177,5,1,"n mod 101 in {0,91}","n mod 5 in {0,4}",True,passed
+39,47,109,20492,109,177,47,1,"n mod 109 in {0,70}","n mod 47 in {0,8}",True,passed
+159,16,620,2480,31,174,16;5,2,"n mod 31 in {0,27}","n mod 16 in {0,1} AND n mod 5 in {0,1}",True,passed
+51,62,142,8804,71,174,31,1,"n mod 71 in {0,20}","n mod 31 in {0,11}",True,passed
+119,180,296,13320,37,174,9;5,2,"n mod 37 in {0,29}","n mod 9 in {0,7} AND n mod 5 in {0,1}",True,passed
+51,38,166,6308,83,173,19,1,"n mod 83 in {0,32}","n mod 19 in {0,6}",True,passed
+79,116,200,5800,29,173,25,1,"n mod 29 in {0,8}","n mod 25 in {0,21}",True,passed
+71,90,194,17460,97,171,9;5,2,"n mod 97 in {0,26}","n mod 9 in {0,1} AND n mod 5 in {0,4}",True,passed
+87,112,236,6608,59,169,16;7,2,"n mod 59 in {0,31}","n mod 16 in {0,9} AND n mod 7 in {0,4}",True,passed
+87,64,284,4544,71,168,64,1,"n mod 71 in {0,55}","n mod 64 in {0,41}",True,passed

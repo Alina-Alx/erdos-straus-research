@@ -1,0 +1,251 @@
+d,a,b,q,lcm_a_b,lcm_a_b_factorization,support_count,template,dominant_prime,small_prime_powers,automatic_small_prime_powers,nonautomatic_small_prime_powers,prime_condition,prime_condition_enough_on_n_1_mod_24,automatic_reasons
+11,1,43,172,43,43,38712,"F1: a=1, b=p=4d-1",43,,,,"n mod 43 in {0,32}",True,
+11,3,41,492,123,3*41,38516,"F3: a=3, b=p=4d-3",41,3,3,,"n mod 41 in {0,30}",True,n == 1 mod 3 and d == 2 mod 3
+19,2,74,148,74,2*37,34590,"F2: a=2, b=2p, p=2d-1",37,2,2,,"n mod 37 in {0,18}",True,"n is odd and d is odd, so n+d is even"
+15,1,59,236,59,59,26382,"F1: a=1, b=p=4d-1",59,,,,"n mod 59 in {0,44}",True,
+11,6,38,228,114,2*3*19,19718,"F4: a=6, b=2p, p=2d-3",19,2;3,2;3,,"n mod 19 in {0,8}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+27,2,106,212,106,2*53,18462,"F2: a=2, b=2p, p=2d-1",53,2,2,,"n mod 53 in {0,26}",True,"n is odd and d is odd, so n+d is even"
+15,2,58,116,58,2*29,17888,"F2: a=2, b=2p, p=2d-1",29,2,2,,"n mod 29 in {0,14}",True,"n is odd and d is odd, so n+d is even"
+23,24,68,408,408,2^3*3*17,17832,"F5: a=24, b=4p, p=d-6",17,8;3,8;3,,"n mod 17 in {0,11}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+31,2,122,244,122,2*61,17455,"F2: a=2, b=2p, p=2d-1",61,2,2,,"n mod 61 in {0,30}",True,"n is odd and d is odd, so n+d is even"
+11,15,29,1740,435,3*5*29,17381,G: one dominant prime factor,29,3;5,3,5,"n mod 29 in {0,18}",False,n == 1 mod 3 and d == 2 mod 3
+23,3,89,1068,267,3*89,15494,"F3: a=3, b=p=4d-3",89,3,3,,"n mod 89 in {0,66}",True,n == 1 mod 3 and d == 2 mod 3
+19,14,62,868,434,2*7*31,15360,G: one dominant prime factor,31,2;7,2,7,"n mod 31 in {0,12}",False,"n is odd and d is odd, so n+d is even"
+23,23,69,276,69,3*23,15047,G: one dominant prime factor,23,3,3,,"n mod 23 in {0,0}",True,n == 1 mod 3 and d == 2 mod 3
+23,6,86,516,258,2*3*43,14998,"F4: a=6, b=2p, p=2d-3",43,2;3,2;3,,"n mod 43 in {0,20}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+35,6,134,804,402,2*3*67,13954,"F4: a=6, b=2p, p=2d-3",67,2;3,2;3,,"n mod 67 in {0,32}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+7,11,17,748,187,11*17,13361,G: one dominant prime factor,17,11,,11,"n mod 17 in {0,10}",False,
+35,2,138,276,138,2*3*23,12797,G: one dominant prime factor,23,2;3,2;3,,"n mod 23 in {0,11}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+19,5,71,1420,355,5*71,11771,G: one dominant prime factor,71,5,,5,"n mod 71 in {0,52}",False,
+47,2,186,372,186,2*3*31,11201,G: one dominant prime factor,31,2;3,2;3,,"n mod 31 in {0,15}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+27,1,107,428,107,107,11080,"F1: a=1, b=p=4d-1",107,,,,"n mod 107 in {0,80}",True,
+39,8,148,296,296,2^3*37,10972,G: one dominant prime factor,37,8,8,,"n mod 37 in {0,35}",True,n == 1 mod 8 and d == 7 mod 8
+31,8,116,232,232,2^3*29,9749,G: one dominant prime factor,29,8,8,,"n mod 29 in {0,27}",True,n == 1 mod 8 and d == 7 mod 8
+47,4,184,184,184,2^3*23,9542,G: one dominant prime factor,23,8,8,,"n mod 23 in {0,22}",True,n == 1 mod 8 and d == 7 mod 8
+47,24,164,984,984,2^3*3*41,8134,"F5: a=24, b=4p, p=d-6",41,8;3,8;3,,"n mod 41 in {0,35}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+31,62,62,124,62,2*31,7994,G: one dominant prime factor,31,2,2,,"n mod 31 in {0,0}",True,"n is odd and d is odd, so n+d is even"
+39,20,136,680,680,2^3*5*17,7987,G: one dominant prime factor,17,8;5,8,5,"n mod 17 in {0,12}",False,n == 1 mod 8 and d == 7 mod 8
+63,4,248,248,248,2^3*31,7978,G: one dominant prime factor,31,8,8,,"n mod 31 in {0,30}",True,n == 1 mod 8 and d == 7 mod 8
+39,1,155,620,155,5*31,7572,G: one dominant prime factor,31,5,,5,"n mod 31 in {0,23}",False,
+35,1,139,556,139,139,7475,"F1: a=1, b=p=4d-1",139,,,,"n mod 139 in {0,104}",True,
+35,3,137,1644,411,3*137,7223,"F3: a=3, b=p=4d-3",137,3,3,,"n mod 137 in {0,102}",True,n == 1 mod 3 and d == 2 mod 3
+23,18,74,1332,666,2*3^2*37,7048,G: one dominant prime factor,37,2;9,2,9,"n mod 37 in {0,14}",False,"n is odd and d is odd, so n+d is even"
+23,9,83,2988,747,3^2*83,6460,G: one dominant prime factor,83,9,,9,"n mod 83 in {0,60}",False,
+71,8,276,552,552,2^3*3*23,6182,G: one dominant prime factor,23,8;3,8;3,,"n mod 23 in {0,21}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+59,6,230,1380,690,2*3*5*23,5977,G: one dominant prime factor,23,2;3;5,2;3,5,"n mod 23 in {0,10}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+51,2,202,404,202,2*101,5941,"F2: a=2, b=2p, p=2d-1",101,2,2,,"n mod 101 in {0,50}",True,"n is odd and d is odd, so n+d is even"
+55,8,212,424,424,2^3*53,5871,G: one dominant prime factor,53,8,8,,"n mod 53 in {0,51}",True,n == 1 mod 8 and d == 7 mod 8
+39,4,152,152,152,2^3*19,5722,G: one dominant prime factor,19,8,8,,"n mod 19 in {0,18}",True,n == 1 mod 8 and d == 7 mod 8
+55,2,218,436,218,2*109,5480,"F2: a=2, b=2p, p=2d-1",109,2,2,,"n mod 109 in {0,54}",True,"n is odd and d is odd, so n+d is even"
+11,17,27,1836,459,3^3*17,4915,G: one dominant prime factor,17,27,,27,"n mod 17 in {0,6}",False,
+47,47,141,564,141,3*47,4884,G: one dominant prime factor,47,3,3,,"n mod 47 in {0,0}",True,n == 1 mod 3 and d == 2 mod 3
+95,8,372,744,744,2^3*3*31,4772,G: one dominant prime factor,31,8;3,8;3,,"n mod 31 in {0,29}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+47,16,172,688,688,2^4*43,4685,G: one dominant prime factor,43,16,,16,"n mod 43 in {0,39}",False,
+71,2,282,564,282,2*3*47,4660,G: one dominant prime factor,47,2;3,2;3,,"n mod 47 in {0,23}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+31,32,92,736,736,2^5*23,4490,G: one dominant prime factor,23,32,,32,"n mod 23 in {0,15}",False,
+23,39,53,8268,2067,3*13*53,4415,G: one dominant prime factor,53,3;13,3,13,"n mod 53 in {0,30}",False,n == 1 mod 3 and d == 2 mod 3
+63,8,244,488,488,2^3*61,4326,G: one dominant prime factor,61,8,8,,"n mod 61 in {0,59}",True,n == 1 mod 8 and d == 7 mod 8
+27,14,94,1316,658,2*7*47,4110,G: one dominant prime factor,47,2;7,2,7,"n mod 47 in {0,20}",False,"n is odd and d is odd, so n+d is even"
+87,4,344,344,344,2^3*43,3987,G: one dominant prime factor,43,8,8,,"n mod 43 in {0,42}",True,n == 1 mod 8 and d == 7 mod 8
+39,10,146,1460,730,2*5*73,3962,G: one dominant prime factor,73,2;5,2,5,"n mod 73 in {0,34}",False,"n is odd and d is odd, so n+d is even"
+23,16,76,304,304,2^4*19,3805,G: one dominant prime factor,19,16,,16,"n mod 19 in {0,15}",False,
+35,18,122,2196,1098,2*3^2*61,1530,G: one dominant prime factor,61,2;9,2,9,"n mod 61 in {0,26}",False,"n is odd and d is odd, so n+d is even"
+15,23,37,3404,851,23*37,1520,G: one dominant prime factor,37,23,,23,"n mod 37 in {0,22}",False,
+35,9,131,4716,1179,3^2*131,1433,G: one dominant prime factor,131,9,,9,"n mod 131 in {0,96}",False,
+23,13,79,4108,1027,13*79,1121,G: one dominant prime factor,79,13,,13,"n mod 79 in {0,56}",False,
+59,1,235,940,235,5*47,1086,G: one dominant prime factor,47,5,,5,"n mod 47 in {0,35}",False,
+39,5,151,3020,755,5*151,1072,G: one dominant prime factor,151,5,,5,"n mod 151 in {0,112}",False,
+59,14,222,3108,1554,2*3*7*37,1059,G: one dominant prime factor,37,2;3;7,2;3,7,"n mod 37 in {0,15}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+47,36,152,1368,1368,2^3*3^2*19,1053,G: one dominant prime factor,19,8;9,8,9,"n mod 19 in {0,10}",False,n == 1 mod 8 and d == 7 mod 8
+23,38,54,2052,1026,2*3^3*19,1032,G: one dominant prime factor,19,2;27,2,27,"n mod 19 in {0,15}",False,"n is odd and d is odd, so n+d is even"
+95,4,376,376,376,2^3*47,1022,G: one dominant prime factor,47,8,8,,"n mod 47 in {0,46}",True,n == 1 mod 8 and d == 7 mod 8
+47,72,116,2088,2088,2^3*3^2*29,1010,G: one dominant prime factor,29,8;9,8,9,"n mod 29 in {0,11}",False,n == 1 mod 8 and d == 7 mod 8
+47,42,146,6132,3066,2*3*7*73,991,G: one dominant prime factor,73,2;3;7,2;3,7,"n mod 73 in {0,26}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+19,35,41,5740,1435,5*7*41,970,G: one dominant prime factor,41,5;7,,5;7,"n mod 41 in {0,22}",False,
+43,29,143,16588,4147,11*13*29,951,G: one dominant prime factor,29,11;13,,11;13,"n mod 29 in {0,15}",False,
+51,10,194,1940,970,2*5*97,934,G: one dominant prime factor,97,2;5,2,5,"n mod 97 in {0,46}",False,"n is odd and d is odd, so n+d is even"
+19,23,53,4876,1219,23*53,934,G: one dominant prime factor,53,23,,23,"n mod 53 in {0,34}",False,
+95,12,368,1104,1104,2^4*3*23,913,G: one dominant prime factor,23,16;3,3,16,"n mod 23 in {0,20}",False,n == 1 mod 3 and d == 2 mod 3
+63,16,236,944,944,2^4*59,869,G: one dominant prime factor,59,16,,16,"n mod 59 in {0,55}",False,
+75,2,298,596,298,2*149,863,"F2: a=2, b=2p, p=2d-1",149,2,2,,"n mod 149 in {0,74}",True,"n is odd and d is odd, so n+d is even"
+39,46,110,5060,2530,2*5*11*23,840,G: one dominant prime factor,23,2;5;11,2,5;11,"n mod 23 in {0,7}",False,"n is odd and d is odd, so n+d is even"
+59,3,233,2796,699,3*233,839,"F3: a=3, b=p=4d-3",233,3,3,,"n mod 233 in {0,174}",True,n == 1 mod 3 and d == 2 mod 3
+79,2,314,628,314,2*157,834,"F2: a=2, b=2p, p=2d-1",157,2,2,,"n mod 157 in {0,78}",True,"n is odd and d is odd, so n+d is even"
+31,56,68,952,952,2^3*7*17,820,G: one dominant prime factor,17,8;7,8,7,"n mod 17 in {0,3}",False,n == 1 mod 8 and d == 7 mod 8
+27,26,82,2132,1066,2*13*41,820,G: one dominant prime factor,41,2;13,2,13,"n mod 41 in {0,14}",False,"n is odd and d is odd, so n+d is even"
+79,20,296,1480,1480,2^3*5*37,814,G: one dominant prime factor,37,8;5,8,5,"n mod 37 in {0,32}",False,n == 1 mod 8 and d == 7 mod 8
+59,10,226,2260,1130,2*5*113,811,G: one dominant prime factor,113,2;5,2,5,"n mod 113 in {0,54}",False,"n is odd and d is odd, so n+d is even"
+15,17,43,2924,731,17*43,789,G: one dominant prime factor,43,17,,17,"n mod 43 in {0,28}",False,
+59,30,206,6180,3090,2*3*5*103,765,G: one dominant prime factor,103,2;3;5,2;3,5,"n mod 103 in {0,44}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+47,9,179,6444,1611,3^2*179,764,G: one dominant prime factor,179,9,,9,"n mod 179 in {0,132}",False,
+43,26,146,3796,1898,2*13*73,763,G: one dominant prime factor,73,2;13,2,13,"n mod 73 in {0,30}",False,"n is odd and d is odd, so n+d is even"
+55,32,188,1504,1504,2^5*47,753,G: one dominant prime factor,47,32,,32,"n mod 47 in {0,39}",False,
+71,120,164,4920,4920,2^3*3*5*41,748,G: one dominant prime factor,41,8;3;5,8;3,5,"n mod 41 in {0,11}",False,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+31,50,74,3700,1850,2*5^2*37,748,G: one dominant prime factor,37,2;25,2,25,"n mod 37 in {0,6}",False,"n is odd and d is odd, so n+d is even"
+71,72,212,3816,3816,2^3*3^2*53,745,G: one dominant prime factor,53,8;9,8,9,"n mod 53 in {0,35}",False,n == 1 mod 8 and d == 7 mod 8
+39,64,92,1472,1472,2^6*23,729,G: one dominant prime factor,23,64,,64,"n mod 23 in {0,7}",False,
+71,36,248,2232,2232,2^3*3^2*31,729,G: one dominant prime factor,31,8;9,8,9,"n mod 31 in {0,22}",False,n == 1 mod 8 and d == 7 mod 8
+47,14,174,2436,1218,2*3*7*29,728,G: one dominant prime factor,29,2;3;7,2;3,7,"n mod 29 in {0,11}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+27,7,101,2828,707,7*101,725,G: one dominant prime factor,101,7,,7,"n mod 101 in {0,74}",False,
+83,6,326,1956,978,2*3*163,718,"F4: a=6, b=2p, p=2d-3",163,2;3,2;3,,"n mod 163 in {0,80}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+39,40,116,1160,1160,2^3*5*29,718,G: one dominant prime factor,29,8;5,8,5,"n mod 29 in {0,19}",False,n == 1 mod 8 and d == 7 mod 8
+35,11,129,5676,1419,3*11*43,704,G: one dominant prime factor,43,3;11,3,11,"n mod 43 in {0,8}",False,n == 1 mod 3 and d == 2 mod 3
+63,1,251,1004,251,251,701,"F1: a=1, b=p=4d-1",251,,,,"n mod 251 in {0,188}",True,
+35,66,74,4884,2442,2*3*11*37,689,G: one dominant prime factor,37,2;3;11,2;3,11,"n mod 37 in {0,2}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+71,16,268,1072,1072,2^4*67,670,G: one dominant prime factor,67,16,,16,"n mod 67 in {0,63}",False,
+71,48,236,2832,2832,2^4*3*59,665,G: one dominant prime factor,59,16;3,3,16,"n mod 59 in {0,47}",False,n == 1 mod 3 and d == 2 mod 3
+87,2,346,692,346,2*173,650,"F2: a=2, b=2p, p=2d-1",173,2,2,,"n mod 173 in {0,86}",True,"n is odd and d is odd, so n+d is even"
+71,5,279,5580,1395,3^2*5*31,646,G: one dominant prime factor,31,9;5,,9;5,"n mod 31 in {0,22}",False,
+23,31,61,7564,1891,31*61,644,G: one dominant prime factor,61,31,,31,"n mod 61 in {0,38}",False,
+47,21,167,14028,3507,3*7*167,628,G: one dominant prime factor,167,3;7,3,7,"n mod 167 in {0,120}",False,n == 1 mod 3 and d == 2 mod 3
+71,12,272,816,816,2^4*3*17,622,G: one dominant prime factor,17,16;3,3,16,"n mod 17 in {0,14}",False,n == 1 mod 3 and d == 2 mod 3
+71,40,244,2440,2440,2^3*5*61,621,G: one dominant prime factor,61,8;5,8,5,"n mod 61 in {0,51}",False,n == 1 mod 8 and d == 7 mod 8
+35,54,86,4644,2322,2*3^3*43,619,G: one dominant prime factor,43,2;27,2,27,"n mod 43 in {0,8}",False,"n is odd and d is odd, so n+d is even"
+95,36,344,3096,3096,2^3*3^2*43,615,G: one dominant prime factor,43,8;9,8,9,"n mod 43 in {0,34}",False,n == 1 mod 8 and d == 7 mod 8
+47,7,181,5068,1267,7*181,604,G: one dominant prime factor,181,7,,7,"n mod 181 in {0,134}",False,
+119,4,472,472,472,2^3*59,601,G: one dominant prime factor,59,8,8,,"n mod 59 in {0,58}",True,n == 1 mod 8 and d == 7 mod 8
+35,27,113,12204,3051,3^3*113,599,G: one dominant prime factor,113,27,,27,"n mod 113 in {0,78}",False,
+59,50,186,9300,4650,2*3*5^2*31,585,G: one dominant prime factor,31,2;3;25,2;3,25,"n mod 31 in {0,3}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+71,1,283,1132,283,283,573,"F1: a=1, b=p=4d-1",283,,,,"n mod 283 in {0,212}",True,
+107,2,426,852,426,2*3*71,564,G: one dominant prime factor,71,2;3,2;3,,"n mod 71 in {0,35}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+55,104,116,3016,3016,2^3*13*29,556,G: one dominant prime factor,29,8;13,8,13,"n mod 29 in {0,3}",False,n == 1 mod 8 and d == 7 mod 8
+95,24,356,2136,2136,2^3*3*89,555,"F5: a=24, b=4p, p=d-6",89,8;3,8;3,,"n mod 89 in {0,83}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+27,46,62,2852,1426,2*23*31,551,G: one dominant prime factor,31,2;23,2,23,"n mod 31 in {0,4}",False,"n is odd and d is odd, so n+d is even"
+71,30,254,7620,3810,2*3*5*127,549,G: one dominant prime factor,127,2;3;5,2;3,5,"n mod 127 in {0,56}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+71,3,281,3372,843,3*281,542,"F3: a=3, b=p=4d-3",281,3,3,,"n mod 281 in {0,210}",True,n == 1 mod 3 and d == 2 mod 3
+71,6,278,1668,834,2*3*139,541,"F4: a=6, b=2p, p=2d-3",139,2;3,2;3,,"n mod 139 in {0,68}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+51,5,199,3980,995,5*199,527,G: one dominant prime factor,199,5,,5,"n mod 199 in {0,148}",False,
+143,8,564,1128,1128,2^3*3*47,522,G: one dominant prime factor,47,8;3,8;3,,"n mod 47 in {0,45}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+39,32,124,992,992,2^5*31,517,G: one dominant prime factor,31,32,,32,"n mod 31 in {0,23}",False,
+59,18,218,3924,1962,2*3^2*109,515,G: one dominant prime factor,109,2;9,2,9,"n mod 109 in {0,50}",False,"n is odd and d is odd, so n+d is even"
+39,50,106,5300,2650,2*5^2*53,505,G: one dominant prime factor,53,2;25,2,25,"n mod 53 in {0,14}",False,"n is odd and d is odd, so n+d is even"
+35,22,118,2596,1298,2*11*59,500,G: one dominant prime factor,59,2;11,2,11,"n mod 59 in {0,24}",False,"n is odd and d is odd, so n+d is even"
+59,9,227,8172,2043,3^2*227,487,G: one dominant prime factor,227,9,,9,"n mod 227 in {0,168}",False,
+19,29,47,5452,1363,29*47,485,G: one dominant prime factor,47,29,,29,"n mod 47 in {0,28}",False,
+79,158,158,316,158,2*79,464,G: one dominant prime factor,79,2,2,,"n mod 79 in {0,0}",True,"n is odd and d is odd, so n+d is even"
+31,35,89,12460,3115,5*7*89,461,G: one dominant prime factor,89,5;7,,5;7,"n mod 89 in {0,58}",False,
+63,88,164,3608,3608,2^3*11*41,459,G: one dominant prime factor,41,8;11,8,11,"n mod 41 in {0,19}",False,n == 1 mod 8 and d == 7 mod 8
+95,52,328,4264,4264,2^3*13*41,459,G: one dominant prime factor,41,8;13,8,13,"n mod 41 in {0,28}",False,n == 1 mod 8 and d == 7 mod 8
+119,12,464,1392,1392,2^4*3*29,459,G: one dominant prime factor,29,16;3,3,16,"n mod 29 in {0,26}",False,n == 1 mod 3 and d == 2 mod 3
+119,2,474,948,474,2*3*79,454,G: one dominant prime factor,79,2;3,2;3,,"n mod 79 in {0,39}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+19,17,59,4012,1003,17*59,452,G: one dominant prime factor,59,17,,17,"n mod 59 in {0,40}",False,
+95,6,374,2244,1122,2*3*11*17,445,G: one dominant prime factor,17,2;3;11,2;3,11,"n mod 17 in {0,7}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+15,19,41,3116,779,19*41,436,G: one dominant prime factor,41,19,,19,"n mod 41 in {0,26}",False,
+75,1,299,1196,299,13*23,435,G: one dominant prime factor,23,13,,13,"n mod 23 in {0,17}",False,
+91,2,362,724,362,2*181,430,"F2: a=2, b=2p, p=2d-1",181,2,2,,"n mod 181 in {0,90}",True,"n is odd and d is odd, so n+d is even"
+103,8,404,808,808,2^3*101,430,G: one dominant prime factor,101,8,8,,"n mod 101 in {0,99}",True,n == 1 mod 8 and d == 7 mod 8
+87,7,341,9548,2387,7*11*31,423,G: one dominant prime factor,31,7;11,,7;11,"n mod 31 in {0,6}",False,
+63,64,188,3008,3008,2^6*47,421,G: one dominant prime factor,47,64,,64,"n mod 47 in {0,31}",False,
+55,56,164,2296,2296,2^3*7*41,418,G: one dominant prime factor,41,8;7,8,7,"n mod 41 in {0,27}",False,n == 1 mod 8 and d == 7 mod 8
+119,6,470,2820,1410,2*3*5*47,414,G: one dominant prime factor,47,2;3;5,2;3,5,"n mod 47 in {0,22}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+75,13,287,14924,3731,7*13*41,412,G: one dominant prime factor,41,7;13,,7;13,"n mod 41 in {0,7}",False,
+99,2,394,788,394,2*197,410,"F2: a=2, b=2p, p=2d-1",197,2,2,,"n mod 197 in {0,98}",True,"n is odd and d is odd, so n+d is even"
+135,4,536,536,536,2^3*67,409,G: one dominant prime factor,67,8,8,,"n mod 67 in {0,66}",True,n == 1 mod 8 and d == 7 mod 8
+95,3,377,4524,1131,3*13*29,405,G: one dominant prime factor,29,3;13,3,13,"n mod 29 in {0,21}",False,n == 1 mod 3 and d == 2 mod 3
+47,54,134,7236,3618,2*3^3*67,401,G: one dominant prime factor,67,2;27,2,27,"n mod 67 in {0,20}",False,"n is odd and d is odd, so n+d is even"
+71,71,213,852,213,3*71,390,G: one dominant prime factor,71,3,3,,"n mod 71 in {0,0}",True,n == 1 mod 3 and d == 2 mod 3
+111,20,424,2120,2120,2^3*5*53,383,G: one dominant prime factor,53,8;5,8,5,"n mod 53 in {0,48}",False,n == 1 mod 8 and d == 7 mod 8
+39,22,134,2948,1474,2*11*67,381,G: one dominant prime factor,67,2;11,2,11,"n mod 67 in {0,28}",False,"n is odd and d is odd, so n+d is even"
+87,16,332,1328,1328,2^4*83,379,G: one dominant prime factor,83,16,,16,"n mod 83 in {0,79}",False,
+83,1,331,1324,331,331,378,"F1: a=1, b=p=4d-1",331,,,,"n mod 331 in {0,248}",True,
+119,16,460,1840,1840,2^4*5*23,371,G: one dominant prime factor,23,16;5,,16;5,"n mod 23 in {0,19}",False,
+55,26,194,5044,2522,2*13*97,369,G: one dominant prime factor,97,2;13,2,13,"n mod 97 in {0,42}",False,"n is odd and d is odd, so n+d is even"
+35,38,102,3876,1938,2*3*17*19,368,G: one dominant prime factor,19,2;3;17,2;3,17,"n mod 19 in {0,3}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+143,4,568,568,568,2^3*71,366,G: one dominant prime factor,71,8,8,,"n mod 71 in {0,70}",True,n == 1 mod 8 and d == 7 mod 8
+111,8,436,872,872,2^3*109,365,G: one dominant prime factor,109,8,8,,"n mod 109 in {0,107}",True,n == 1 mod 8 and d == 7 mod 8
+55,92,128,2944,2944,2^7*23,361,G: one dominant prime factor,23,128,,128,"n mod 23 in {0,14}",False,
+59,42,194,8148,4074,2*3*7*97,360,G: one dominant prime factor,97,2;3;7,2;3,7,"n mod 97 in {0,38}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+87,1,347,1388,347,347,358,"F1: a=1, b=p=4d-1",347,,,,"n mod 347 in {0,260}",True,
+27,47,61,11468,2867,47*61,357,G: one dominant prime factor,61,47,,47,"n mod 61 in {0,34}",False,
+119,24,452,2712,2712,2^3*3*113,357,"F5: a=24, b=4p, p=d-6",113,8;3,8;3,,"n mod 113 in {0,107}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+59,21,215,18060,4515,3*5*7*43,355,G: one dominant prime factor,43,3;5;7,3,5;7,"n mod 43 in {0,27}",False,n == 1 mod 3 and d == 2 mod 3
+107,6,422,2532,1266,2*3*211,347,"F4: a=6, b=2p, p=2d-3",211,2;3,2;3,,"n mod 211 in {0,104}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+131,6,518,3108,1554,2*3*7*37,339,G: one dominant prime factor,37,2;3;7,2;3,7,"n mod 37 in {0,17}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+55,14,206,2884,1442,2*7*103,337,G: one dominant prime factor,103,2;7,2,7,"n mod 103 in {0,48}",False,"n is odd and d is odd, so n+d is even"
+83,66,266,17556,8778,2*3*7*11*19,336,G: one dominant prime factor,19,2;3;7;11,2;3,7;11,"n mod 19 in {0,12}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+79,32,284,2272,2272,2^5*71,331,G: one dominant prime factor,71,32,,32,"n mod 71 in {0,63}",False,
+59,7,229,6412,1603,7*229,330,G: one dominant prime factor,229,7,,7,"n mod 229 in {0,170}",False,
+95,48,332,3984,3984,2^4*3*83,330,G: one dominant prime factor,83,16;3,3,16,"n mod 83 in {0,71}",False,n == 1 mod 3 and d == 2 mod 3
+39,25,131,13100,3275,5^2*131,328,G: one dominant prime factor,131,25,,25,"n mod 131 in {0,92}",False,
+35,41,99,16236,4059,3^2*11*41,322,G: one dominant prime factor,41,9;11,,9;11,"n mod 41 in {0,6}",False,
+95,26,354,9204,4602,2*3*13*59,322,G: one dominant prime factor,59,2;3;13,2;3,13,"n mod 59 in {0,23}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+119,32,444,3552,3552,2^5*3*37,320,G: one dominant prime factor,37,32;3,3,32,"n mod 37 in {0,29}",False,n == 1 mod 3 and d == 2 mod 3
+31,38,86,3268,1634,2*19*43,318,G: one dominant prime factor,43,2;19,2,19,"n mod 43 in {0,12}",False,"n is odd and d is odd, so n+d is even"
+35,47,93,17484,4371,3*31*47,316,G: one dominant prime factor,47,3;31,3,31,"n mod 47 in {0,12}",False,n == 1 mod 3 and d == 2 mod 3
+27,34,74,2516,1258,2*17*37,311,G: one dominant prime factor,37,2;17,2,17,"n mod 37 in {0,10}",False,"n is odd and d is odd, so n+d is even"
+35,17,123,8364,2091,3*17*41,304,G: one dominant prime factor,41,3;17,3,17,"n mod 41 in {0,6}",False,n == 1 mod 3 and d == 2 mod 3
+59,90,146,13140,6570,2*3^2*5*73,304,G: one dominant prime factor,73,2;9;5,2,9;5,"n mod 73 in {0,14}",False,"n is odd and d is odd, so n+d is even"
+71,10,274,2740,1370,2*5*137,291,G: one dominant prime factor,137,2;5,2,5,"n mod 137 in {0,66}",False,"n is odd and d is odd, so n+d is even"
+87,56,292,4088,4088,2^3*7*73,289,G: one dominant prime factor,73,8;7,8,7,"n mod 73 in {0,59}",False,n == 1 mod 8 and d == 7 mod 8
+79,80,236,4720,4720,2^4*5*59,285,G: one dominant prime factor,59,16;5,,16;5,"n mod 59 in {0,39}",False,
+23,19,73,5548,1387,19*73,282,G: one dominant prime factor,73,19,,19,"n mod 73 in {0,50}",False,
+71,68,216,3672,3672,2^3*3^3*17,281,G: one dominant prime factor,17,8;27,8,27,"n mod 17 in {0,14}",False,n == 1 mod 8 and d == 7 mod 8
+83,83,249,996,249,3*83,280,G: one dominant prime factor,83,3,3,,"n mod 83 in {0,0}",True,n == 1 mod 3 and d == 2 mod 3
+35,33,107,14124,3531,3*11*107,277,G: one dominant prime factor,107,3;11,3,11,"n mod 107 in {0,72}",False,n == 1 mod 3 and d == 2 mod 3
+59,86,150,12900,6450,2*3*5^2*43,277,G: one dominant prime factor,43,2;3;25,2;3,25,"n mod 43 in {0,27}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+95,1,379,1516,379,379,276,"F1: a=1, b=p=4d-1",379,,,,"n mod 379 in {0,284}",True,
+95,68,312,5304,5304,2^3*3*13*17,274,G: one dominant prime factor,17,8;3;13,8;3,13,"n mod 17 in {0,7}",False,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+143,56,516,7224,7224,2^3*3*7*43,272,G: one dominant prime factor,43,8;3;7,8;3,7,"n mod 43 in {0,29}",False,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+71,15,269,16140,4035,3*5*269,270,G: one dominant prime factor,269,3;5,3,5,"n mod 269 in {0,198}",False,n == 1 mod 3 and d == 2 mod 3
+59,70,166,11620,5810,2*5*7*83,267,G: one dominant prime factor,83,2;5;7,2,5;7,"n mod 83 in {0,24}",False,"n is odd and d is odd, so n+d is even"
+51,46,158,7268,3634,2*23*79,266,G: one dominant prime factor,79,2;23,2,23,"n mod 79 in {0,28}",False,"n is odd and d is odd, so n+d is even"
+87,14,334,4676,2338,2*7*167,265,G: one dominant prime factor,167,2;7,2,7,"n mod 167 in {0,80}",False,"n is odd and d is odd, so n+d is even"
+63,68,184,3128,3128,2^3*17*23,262,G: one dominant prime factor,23,8;17,8,17,"n mod 23 in {0,6}",False,n == 1 mod 8 and d == 7 mod 8
+99,1,395,1580,395,5*79,260,G: one dominant prime factor,79,5,,5,"n mod 79 in {0,59}",False,
+35,29,111,12876,3219,3*29*37,257,G: one dominant prime factor,37,3;29,3,29,"n mod 37 in {0,2}",False,n == 1 mod 3 and d == 2 mod 3
+87,32,316,2528,2528,2^5*79,245,G: one dominant prime factor,79,32,,32,"n mod 79 in {0,71}",False,
+95,96,284,6816,6816,2^5*3*71,245,G: one dominant prime factor,71,32;3,3,32,"n mod 71 in {0,47}",False,n == 1 mod 3 and d == 2 mod 3
+35,57,83,18924,4731,3*19*83,243,G: one dominant prime factor,83,3;19,3,19,"n mod 83 in {0,48}",False,n == 1 mod 3 and d == 2 mod 3
+59,45,191,34380,8595,3^2*5*191,239,G: one dominant prime factor,191,9;5,,9;5,"n mod 191 in {0,132}",False,
+159,4,632,632,632,2^3*79,237,G: one dominant prime factor,79,8,8,,"n mod 79 in {0,78}",True,n == 1 mod 8 and d == 7 mod 8
+39,55,101,22220,5555,5*11*101,232,G: one dominant prime factor,101,5;11,,5;11,"n mod 101 in {0,62}",False,
+83,18,314,5652,2826,2*3^2*157,230,G: one dominant prime factor,157,2;9,2,9,"n mod 157 in {0,74}",False,"n is odd and d is odd, so n+d is even"
+35,34,106,3604,1802,2*17*53,226,G: one dominant prime factor,53,2;17,2,17,"n mod 53 in {0,18}",False,"n is odd and d is odd, so n+d is even"
+59,35,201,28140,7035,3*5*7*67,225,G: one dominant prime factor,67,3;5;7,3,5;7,"n mod 67 in {0,8}",False,n == 1 mod 3 and d == 2 mod 3
+59,63,173,43596,10899,3^2*7*173,225,G: one dominant prime factor,173,9;7,,9;7,"n mod 173 in {0,114}",False,
+83,3,329,3948,987,3*7*47,225,G: one dominant prime factor,47,3;7,3,7,"n mod 47 in {0,11}",False,n == 1 mod 3 and d == 2 mod 3
+79,5,311,6220,1555,5*311,223,G: one dominant prime factor,311,5,,5,"n mod 311 in {0,232}",False,
+167,12,656,1968,1968,2^4*3*41,221,G: one dominant prime factor,41,16;3,3,16,"n mod 41 in {0,38}",False,n == 1 mod 3 and d == 2 mod 3
+95,32,348,2784,2784,2^5*3*29,220,G: one dominant prime factor,29,32;3,3,32,"n mod 29 in {0,21}",False,n == 1 mod 3 and d == 2 mod 3
+191,20,744,3720,3720,2^3*3*5*31,219,G: one dominant prime factor,31,8;3;5,8;3,5,"n mod 31 in {0,26}",False,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+75,118,182,21476,10738,2*7*13*59,217,G: one dominant prime factor,59,2;7;13,2,7;13,"n mod 59 in {0,43}",False,"n is odd and d is odd, so n+d is even"
+115,2,458,916,458,2*229,216,"F2: a=2, b=2p, p=2d-1",229,2,2,,"n mod 229 in {0,114}",True,"n is odd and d is odd, so n+d is even"
+27,19,89,6764,1691,19*89,216,G: one dominant prime factor,89,19,,19,"n mod 89 in {0,62}",False,
+167,4,664,664,664,2^3*83,214,G: one dominant prime factor,83,8,8,,"n mod 83 in {0,82}",True,n == 1 mod 8 and d == 7 mod 8
+79,104,212,5512,5512,2^3*13*53,214,G: one dominant prime factor,53,8;13,8,13,"n mod 53 in {0,27}",False,n == 1 mod 8 and d == 7 mod 8
+51,11,193,8492,2123,11*193,213,G: one dominant prime factor,193,11,,11,"n mod 193 in {0,142}",False,
+143,36,536,4824,4824,2^3*3^2*67,211,G: one dominant prime factor,67,8;9,8,9,"n mod 67 in {0,58}",False,n == 1 mod 8 and d == 7 mod 8
+27,29,79,9164,2291,29*79,204,G: one dominant prime factor,79,29,,29,"n mod 79 in {0,52}",False,
+103,56,356,4984,4984,2^3*7*89,202,G: one dominant prime factor,89,8;7,8,7,"n mod 89 in {0,75}",False,n == 1 mod 8 and d == 7 mod 8
+71,124,160,4960,4960,2^5*5*31,200,G: one dominant prime factor,31,32;5,,32;5,"n mod 31 in {0,22}",False,
+143,14,558,7812,3906,2*3^2*7*31,199,G: one dominant prime factor,31,2;9;7,2,9;7,"n mod 31 in {0,12}",False,"n is odd and d is odd, so n+d is even"
+143,24,548,3288,3288,2^3*3*137,199,"F5: a=24, b=4p, p=d-6",137,8;3,8;3,,"n mod 137 in {0,131}",True,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+95,78,302,23556,11778,2*3*13*151,198,G: one dominant prime factor,151,2;3;13,2;3,13,"n mod 151 in {0,56}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+27,41,67,10988,2747,41*67,198,G: one dominant prime factor,67,41,,41,"n mod 67 in {0,40}",False,
+79,128,188,6016,6016,2^7*47,196,G: one dominant prime factor,47,128,,128,"n mod 47 in {0,15}",False,
+63,116,136,3944,3944,2^3*17*29,196,G: one dominant prime factor,29,8;17,8,17,"n mod 29 in {0,24}",False,n == 1 mod 8 and d == 7 mod 8
+191,24,740,4440,4440,2^3*3*5*37,195,G: one dominant prime factor,37,8;3;5,8;3,5,"n mod 37 in {0,31}",False,n == 1 mod 8 and d == 7 mod 8; n == 1 mod 3 and d == 2 mod 3
+119,72,404,7272,7272,2^3*3^2*101,193,G: one dominant prime factor,101,8;9,8,9,"n mod 101 in {0,83}",False,n == 1 mod 8 and d == 7 mod 8
+111,16,428,1712,1712,2^4*107,191,G: one dominant prime factor,107,16,,16,"n mod 107 in {0,103}",False,
+155,2,618,1236,618,2*3*103,190,G: one dominant prime factor,103,2;3,2;3,,"n mod 103 in {0,51}",True,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+31,23,101,9292,2323,23*101,190,G: one dominant prime factor,101,23,,23,"n mod 101 in {0,70}",False,
+111,100,344,8600,8600,2^3*5^2*43,190,G: one dominant prime factor,43,8;25,8,25,"n mod 43 in {0,18}",False,n == 1 mod 8 and d == 7 mod 8
+83,14,318,4452,2226,2*3*7*53,186,G: one dominant prime factor,53,2;3;7,2;3,7,"n mod 53 in {0,23}",False,"n is odd and d is odd, so n+d is even; n == 1 mod 3 and d == 2 mod 3"
+35,58,82,4756,2378,2*29*41,186,G: one dominant prime factor,41,2;29,2,29,"n mod 41 in {0,6}",False,"n is odd and d is odd, so n+d is even"
+75,7,293,8204,2051,7*293,185,G: one dominant prime factor,293,7,,7,"n mod 293 in {0,218}",False,
+35,19,121,9196,2299,11^2*19,183,G: one dominant prime factor,19,121,,121,"n mod 19 in {0,3}",False,
+191,12,752,2256,2256,2^4*3*47,181,G: one dominant prime factor,47,16;3,3,16,"n mod 47 in {0,44}",False,n == 1 mod 3 and d == 2 mod 3
+27,37,71,10508,2627,37*71,180,G: one dominant prime factor,71,37,,37,"n mod 71 in {0,44}",False,
+51,25,179,17900,4475,5^2*179,179,G: one dominant prime factor,179,25,,25,"n mod 179 in {0,128}",False,
+103,188,224,10528,10528,2^5*7*47,178,G: one dominant prime factor,47,32;7,,32;7,"n mod 47 in {0,38}",False,
+111,40,404,4040,4040,2^3*5*101,177,G: one dominant prime factor,101,8;5,8,5,"n mod 101 in {0,91}",False,n == 1 mod 8 and d == 7 mod 8
+39,47,109,20492,5123,47*109,177,G: one dominant prime factor,109,47,,47,"n mod 109 in {0,70}",False,
+159,16,620,2480,2480,2^4*5*31,174,G: one dominant prime factor,31,16;5,,16;5,"n mod 31 in {0,27}",False,
+51,62,142,8804,4402,2*31*71,174,G: one dominant prime factor,71,2;31,2,31,"n mod 71 in {0,20}",False,"n is odd and d is odd, so n+d is even"
+119,180,296,13320,13320,2^3*3^2*5*37,174,G: one dominant prime factor,37,8;9;5,8,9;5,"n mod 37 in {0,29}",False,n == 1 mod 8 and d == 7 mod 8
+51,38,166,6308,3154,2*19*83,173,G: one dominant prime factor,83,2;19,2,19,"n mod 83 in {0,32}",False,"n is odd and d is odd, so n+d is even"
+79,116,200,5800,5800,2^3*5^2*29,173,G: one dominant prime factor,29,8;25,8,25,"n mod 29 in {0,8}",False,n == 1 mod 8 and d == 7 mod 8
+71,90,194,17460,8730,2*3^2*5*97,171,G: one dominant prime factor,97,2;9;5,2,9;5,"n mod 97 in {0,26}",False,"n is odd and d is odd, so n+d is even"
+87,112,236,6608,6608,2^4*7*59,169,G: one dominant prime factor,59,16;7,,16;7,"n mod 59 in {0,31}",False,
+139,2,554,1108,554,2*277,168,"F2: a=2, b=2p, p=2d-1",277,2,2,,"n mod 277 in {0,138}",True,"n is odd and d is odd, so n+d is even"
+87,64,284,4544,4544,2^6*71,168,G: one dominant prime factor,71,64,,64,"n mod 71 in {0,55}",False,

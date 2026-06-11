@@ -1,0 +1,6 @@
+focus_r,remainders_sampled,processed,no_candidate,forced_implications_found,status_counts,top_implication_patterns
+289,200,200,0,0,"[('unknown_large_ratio', 5000), ('failed', 1400)]",[]
+361,200,200,0,0,"[('unknown_large_ratio', 4800), ('failed', 1600)]",[]
+529,200,200,0,0,"[('unknown_large_ratio', 4800), ('failed', 1600)]",[]
+841,200,200,0,0,"[('unknown_large_ratio', 4600), ('failed', 1800)]",[]
+961,200,200,0,0,"[('unknown_large_ratio', 4800), ('failed', 1600)]",[]

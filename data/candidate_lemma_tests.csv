@@ -1,0 +1,11 @@
+lemma_id,d,a,b,L,tested_residues,passed,failed_residue,status
+1,11,1,43,172,2,True,,algebraically_verified_modulo_L
+2,19,2,74,148,2,True,,algebraically_verified_modulo_L
+3,11,3,41,492,4,True,,algebraically_verified_modulo_L
+4,15,1,59,236,2,True,,algebraically_verified_modulo_L
+5,31,2,122,244,2,True,,algebraically_verified_modulo_L
+6,11,1,43,860,1,False,1,failed_counterexample_residue
+7,19,2,74,148,1,False,18,failed_counterexample_residue
+8,11,3,41,2460,1,False,1,failed_counterexample_residue
+9,15,1,59,1180,1,False,1,failed_counterexample_residue
+10,31,2,122,1220,1,False,1,failed_counterexample_residue

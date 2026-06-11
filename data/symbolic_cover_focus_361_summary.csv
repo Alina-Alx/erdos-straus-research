@@ -1,0 +1,2 @@
+focus_r,total_classes,fully_covered_classes,partially_covered_classes,uncovered_classes,unknown_fullness_classes,selected_rules,symbolic_remainders,candidate_rules_evaluated,validation_failures,verdict
+361,60983,536,60447,0,0,30,60447,82,0,not proved yet

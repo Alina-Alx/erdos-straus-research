@@ -1,0 +1,501 @@
+d,a,b,q,template,dominant_prime,test_type,tested_modulus,passed,status,details
+11,1,43,172,"F1: a=1, b=p=4d-1",43,prime_power_factorization_equals_direct_rule_set,172,True,passed,direct=2 factor=2
+11,1,43,172,"F1: a=1, b=p=4d-1",43,hard_core_n_1_mod_24_reduces_to_mod_p,1032,True,reduction_found,"n mod p allowed=[0, 32]"
+11,3,41,492,"F3: a=3, b=p=4d-3",41,prime_power_factorization_equals_direct_rule_set,492,True,passed,direct=4 factor=4
+11,3,41,492,"F3: a=3, b=p=4d-3",41,hard_core_n_1_mod_24_reduces_to_mod_p,984,True,reduction_found,"n mod p allowed=[0, 30]"
+19,2,74,148,"F2: a=2, b=2p, p=2d-1",37,prime_power_factorization_equals_direct_rule_set,148,True,passed,direct=2 factor=2
+19,2,74,148,"F2: a=2, b=2p, p=2d-1",37,hard_core_n_1_mod_24_reduces_to_mod_p,888,True,reduction_found,"n mod p allowed=[0, 18]"
+15,1,59,236,"F1: a=1, b=p=4d-1",59,prime_power_factorization_equals_direct_rule_set,236,True,passed,direct=2 factor=2
+15,1,59,236,"F1: a=1, b=p=4d-1",59,hard_core_n_1_mod_24_reduces_to_mod_p,1416,True,reduction_found,"n mod p allowed=[0, 44]"
+11,6,38,228,"F4: a=6, b=2p, p=2d-3",19,prime_power_factorization_equals_direct_rule_set,228,True,passed,direct=4 factor=4
+11,6,38,228,"F4: a=6, b=2p, p=2d-3",19,hard_core_n_1_mod_24_reduces_to_mod_p,456,True,reduction_found,"n mod p allowed=[0, 8]"
+27,2,106,212,"F2: a=2, b=2p, p=2d-1",53,prime_power_factorization_equals_direct_rule_set,212,True,passed,direct=2 factor=2
+27,2,106,212,"F2: a=2, b=2p, p=2d-1",53,hard_core_n_1_mod_24_reduces_to_mod_p,1272,True,reduction_found,"n mod p allowed=[0, 26]"
+15,2,58,116,"F2: a=2, b=2p, p=2d-1",29,prime_power_factorization_equals_direct_rule_set,116,True,passed,direct=2 factor=2
+15,2,58,116,"F2: a=2, b=2p, p=2d-1",29,hard_core_n_1_mod_24_reduces_to_mod_p,696,True,reduction_found,"n mod p allowed=[0, 14]"
+23,24,68,408,"F5: a=24, b=4p, p=d-6",17,prime_power_factorization_equals_direct_rule_set,408,True,passed,direct=4 factor=4
+23,24,68,408,"F5: a=24, b=4p, p=d-6",17,hard_core_n_1_mod_24_reduces_to_mod_p,408,True,reduction_found,"n mod p allowed=[0, 11]"
+31,2,122,244,"F2: a=2, b=2p, p=2d-1",61,prime_power_factorization_equals_direct_rule_set,244,True,passed,direct=2 factor=2
+31,2,122,244,"F2: a=2, b=2p, p=2d-1",61,hard_core_n_1_mod_24_reduces_to_mod_p,1464,True,reduction_found,"n mod p allowed=[0, 30]"
+11,15,29,1740,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,1740,True,passed,direct=8 factor=8
+11,15,29,1740,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,3480,False,no_reduction_found,n mod p allowed=[]
+23,3,89,1068,"F3: a=3, b=p=4d-3",89,prime_power_factorization_equals_direct_rule_set,1068,True,passed,direct=4 factor=4
+23,3,89,1068,"F3: a=3, b=p=4d-3",89,hard_core_n_1_mod_24_reduces_to_mod_p,2136,True,reduction_found,"n mod p allowed=[0, 66]"
+19,14,62,868,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,868,True,passed,direct=4 factor=4
+19,14,62,868,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,5208,False,no_reduction_found,n mod p allowed=[]
+23,23,69,276,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,276,True,passed,direct=2 factor=2
+23,23,69,276,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,552,True,reduction_found,n mod p allowed=[0]
+23,6,86,516,"F4: a=6, b=2p, p=2d-3",43,prime_power_factorization_equals_direct_rule_set,516,True,passed,direct=4 factor=4
+23,6,86,516,"F4: a=6, b=2p, p=2d-3",43,hard_core_n_1_mod_24_reduces_to_mod_p,1032,True,reduction_found,"n mod p allowed=[0, 20]"
+35,6,134,804,"F4: a=6, b=2p, p=2d-3",67,prime_power_factorization_equals_direct_rule_set,804,True,passed,direct=4 factor=4
+35,6,134,804,"F4: a=6, b=2p, p=2d-3",67,hard_core_n_1_mod_24_reduces_to_mod_p,1608,True,reduction_found,"n mod p allowed=[0, 32]"
+7,11,17,748,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,748,True,passed,direct=4 factor=4
+7,11,17,748,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,4488,False,no_reduction_found,n mod p allowed=[]
+35,2,138,276,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,276,True,passed,direct=4 factor=4
+35,2,138,276,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,552,True,reduction_found,"n mod p allowed=[0, 11]"
+19,5,71,1420,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,1420,True,passed,direct=4 factor=4
+19,5,71,1420,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,8520,False,no_reduction_found,n mod p allowed=[]
+47,2,186,372,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,372,True,passed,direct=4 factor=4
+47,2,186,372,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,744,True,reduction_found,"n mod p allowed=[0, 15]"
+27,1,107,428,"F1: a=1, b=p=4d-1",107,prime_power_factorization_equals_direct_rule_set,428,True,passed,direct=2 factor=2
+27,1,107,428,"F1: a=1, b=p=4d-1",107,hard_core_n_1_mod_24_reduces_to_mod_p,2568,True,reduction_found,"n mod p allowed=[0, 80]"
+39,8,148,296,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,296,True,passed,direct=2 factor=2
+39,8,148,296,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,888,True,reduction_found,"n mod p allowed=[0, 35]"
+31,8,116,232,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,232,True,passed,direct=2 factor=2
+31,8,116,232,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,696,True,reduction_found,"n mod p allowed=[0, 27]"
+47,4,184,184,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,184,True,passed,direct=2 factor=2
+47,4,184,184,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,552,True,reduction_found,"n mod p allowed=[0, 22]"
+47,24,164,984,"F5: a=24, b=4p, p=d-6",41,prime_power_factorization_equals_direct_rule_set,984,True,passed,direct=4 factor=4
+47,24,164,984,"F5: a=24, b=4p, p=d-6",41,hard_core_n_1_mod_24_reduces_to_mod_p,984,True,reduction_found,"n mod p allowed=[0, 35]"
+31,62,62,124,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,124,True,passed,direct=1 factor=1
+31,62,62,124,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,744,True,reduction_found,n mod p allowed=[0]
+39,20,136,680,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,680,True,passed,direct=4 factor=4
+39,20,136,680,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,2040,False,no_reduction_found,n mod p allowed=[]
+63,4,248,248,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,248,True,passed,direct=2 factor=2
+63,4,248,248,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,744,True,reduction_found,"n mod p allowed=[0, 30]"
+23,18,74,1332,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,1332,True,passed,direct=4 factor=4
+23,18,74,1332,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,2664,False,no_reduction_found,n mod p allowed=[]
+39,1,155,620,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,620,True,passed,direct=4 factor=4
+39,1,155,620,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,3720,False,no_reduction_found,n mod p allowed=[]
+35,1,139,556,"F1: a=1, b=p=4d-1",139,prime_power_factorization_equals_direct_rule_set,556,True,passed,direct=2 factor=2
+35,1,139,556,"F1: a=1, b=p=4d-1",139,hard_core_n_1_mod_24_reduces_to_mod_p,3336,True,reduction_found,"n mod p allowed=[0, 104]"
+35,3,137,1644,"F3: a=3, b=p=4d-3",137,prime_power_factorization_equals_direct_rule_set,1644,True,passed,direct=4 factor=4
+35,3,137,1644,"F3: a=3, b=p=4d-3",137,hard_core_n_1_mod_24_reduces_to_mod_p,3288,True,reduction_found,"n mod p allowed=[0, 102]"
+23,9,83,2988,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,2988,True,passed,direct=4 factor=4
+23,9,83,2988,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,5976,False,no_reduction_found,n mod p allowed=[]
+71,8,276,552,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,552,True,passed,direct=4 factor=4
+71,8,276,552,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,552,True,reduction_found,"n mod p allowed=[0, 21]"
+59,6,230,1380,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,1380,True,passed,direct=8 factor=8
+59,6,230,1380,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,2760,False,no_reduction_found,n mod p allowed=[]
+51,2,202,404,"F2: a=2, b=2p, p=2d-1",101,prime_power_factorization_equals_direct_rule_set,404,True,passed,direct=2 factor=2
+51,2,202,404,"F2: a=2, b=2p, p=2d-1",101,hard_core_n_1_mod_24_reduces_to_mod_p,2424,True,reduction_found,"n mod p allowed=[0, 50]"
+55,8,212,424,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,424,True,passed,direct=2 factor=2
+55,8,212,424,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,1272,True,reduction_found,"n mod p allowed=[0, 51]"
+39,4,152,152,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,152,True,passed,direct=2 factor=2
+39,4,152,152,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,456,True,reduction_found,"n mod p allowed=[0, 18]"
+55,2,218,436,"F2: a=2, b=2p, p=2d-1",109,prime_power_factorization_equals_direct_rule_set,436,True,passed,direct=2 factor=2
+55,2,218,436,"F2: a=2, b=2p, p=2d-1",109,hard_core_n_1_mod_24_reduces_to_mod_p,2616,True,reduction_found,"n mod p allowed=[0, 54]"
+11,17,27,1836,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,1836,True,passed,direct=4 factor=4
+11,17,27,1836,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,3672,False,no_reduction_found,n mod p allowed=[]
+47,47,141,564,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,564,True,passed,direct=2 factor=2
+47,47,141,564,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,1128,True,reduction_found,n mod p allowed=[0]
+31,32,92,736,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,736,True,passed,direct=2 factor=2
+31,32,92,736,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,2208,False,no_reduction_found,n mod p allowed=[]
+47,16,172,688,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,688,True,passed,direct=2 factor=2
+47,16,172,688,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,2064,False,no_reduction_found,n mod p allowed=[]
+95,8,372,744,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,744,True,passed,direct=4 factor=4
+95,8,372,744,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,744,True,reduction_found,"n mod p allowed=[0, 29]"
+71,2,282,564,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,564,True,passed,direct=4 factor=4
+71,2,282,564,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,1128,True,reduction_found,"n mod p allowed=[0, 23]"
+23,39,53,8268,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,8268,True,passed,direct=8 factor=8
+23,39,53,8268,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,16536,False,no_reduction_found,n mod p allowed=[]
+63,8,244,488,"G: one dominant prime factor in lcm(a,b)",61,prime_power_factorization_equals_direct_rule_set,488,True,passed,direct=2 factor=2
+63,8,244,488,"G: one dominant prime factor in lcm(a,b)",61,hard_core_n_1_mod_24_reduces_to_mod_p,1464,True,reduction_found,"n mod p allowed=[0, 59]"
+27,14,94,1316,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,1316,True,passed,direct=4 factor=4
+27,14,94,1316,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,7896,False,no_reduction_found,n mod p allowed=[]
+87,4,344,344,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,344,True,passed,direct=2 factor=2
+87,4,344,344,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,1032,True,reduction_found,"n mod p allowed=[0, 42]"
+39,10,146,1460,"G: one dominant prime factor in lcm(a,b)",73,prime_power_factorization_equals_direct_rule_set,1460,True,passed,direct=4 factor=4
+39,10,146,1460,"G: one dominant prime factor in lcm(a,b)",73,hard_core_n_1_mod_24_reduces_to_mod_p,8760,False,no_reduction_found,n mod p allowed=[]
+23,16,76,304,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,304,True,passed,direct=2 factor=2
+23,16,76,304,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,912,False,no_reduction_found,n mod p allowed=[]
+35,18,122,2196,"G: one dominant prime factor in lcm(a,b)",61,prime_power_factorization_equals_direct_rule_set,2196,True,passed,direct=4 factor=4
+35,18,122,2196,"G: one dominant prime factor in lcm(a,b)",61,hard_core_n_1_mod_24_reduces_to_mod_p,4392,False,no_reduction_found,n mod p allowed=[]
+15,23,37,3404,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,3404,True,passed,direct=4 factor=4
+15,23,37,3404,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,20424,False,no_reduction_found,n mod p allowed=[]
+35,9,131,4716,"G: one dominant prime factor in lcm(a,b)",131,prime_power_factorization_equals_direct_rule_set,4716,True,passed,direct=4 factor=4
+35,9,131,4716,"G: one dominant prime factor in lcm(a,b)",131,hard_core_n_1_mod_24_reduces_to_mod_p,9432,False,no_reduction_found,n mod p allowed=[]
+23,13,79,4108,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,4108,True,passed,direct=4 factor=4
+23,13,79,4108,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,24648,False,no_reduction_found,n mod p allowed=[]
+59,1,235,940,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,940,True,passed,direct=4 factor=4
+59,1,235,940,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,5640,False,no_reduction_found,n mod p allowed=[]
+39,5,151,3020,"G: one dominant prime factor in lcm(a,b)",151,prime_power_factorization_equals_direct_rule_set,3020,True,passed,direct=4 factor=4
+39,5,151,3020,"G: one dominant prime factor in lcm(a,b)",151,hard_core_n_1_mod_24_reduces_to_mod_p,18120,False,no_reduction_found,n mod p allowed=[]
+59,14,222,3108,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,3108,True,passed,direct=8 factor=8
+59,14,222,3108,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,6216,False,no_reduction_found,n mod p allowed=[]
+47,36,152,1368,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,1368,True,passed,direct=4 factor=4
+47,36,152,1368,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,1368,False,no_reduction_found,n mod p allowed=[]
+23,38,54,2052,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,2052,True,passed,direct=4 factor=4
+23,38,54,2052,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,4104,False,no_reduction_found,n mod p allowed=[]
+95,4,376,376,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,376,True,passed,direct=2 factor=2
+95,4,376,376,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,1128,True,reduction_found,"n mod p allowed=[0, 46]"
+47,72,116,2088,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,2088,True,passed,direct=4 factor=4
+47,72,116,2088,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,2088,False,no_reduction_found,n mod p allowed=[]
+47,42,146,6132,"G: one dominant prime factor in lcm(a,b)",73,prime_power_factorization_equals_direct_rule_set,6132,True,passed,direct=8 factor=8
+47,42,146,6132,"G: one dominant prime factor in lcm(a,b)",73,hard_core_n_1_mod_24_reduces_to_mod_p,12264,False,no_reduction_found,n mod p allowed=[]
+19,35,41,5740,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,5740,True,passed,direct=8 factor=8
+19,35,41,5740,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,34440,False,no_reduction_found,n mod p allowed=[]
+43,29,143,16588,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,16588,True,passed,direct=8 factor=8
+43,29,143,16588,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,99528,False,no_reduction_found,n mod p allowed=[]
+51,10,194,1940,"G: one dominant prime factor in lcm(a,b)",97,prime_power_factorization_equals_direct_rule_set,1940,True,passed,direct=4 factor=4
+51,10,194,1940,"G: one dominant prime factor in lcm(a,b)",97,hard_core_n_1_mod_24_reduces_to_mod_p,11640,False,no_reduction_found,n mod p allowed=[]
+19,23,53,4876,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,4876,True,passed,direct=4 factor=4
+19,23,53,4876,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,29256,False,no_reduction_found,n mod p allowed=[]
+95,12,368,1104,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,1104,True,passed,direct=4 factor=4
+95,12,368,1104,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,1104,False,no_reduction_found,n mod p allowed=[]
+63,16,236,944,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,944,True,passed,direct=2 factor=2
+63,16,236,944,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,2832,False,no_reduction_found,n mod p allowed=[]
+75,2,298,596,"F2: a=2, b=2p, p=2d-1",149,prime_power_factorization_equals_direct_rule_set,596,True,passed,direct=2 factor=2
+75,2,298,596,"F2: a=2, b=2p, p=2d-1",149,hard_core_n_1_mod_24_reduces_to_mod_p,3576,True,reduction_found,"n mod p allowed=[0, 74]"
+39,46,110,5060,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,5060,True,passed,direct=8 factor=8
+39,46,110,5060,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,30360,False,no_reduction_found,n mod p allowed=[]
+59,3,233,2796,"F3: a=3, b=p=4d-3",233,prime_power_factorization_equals_direct_rule_set,2796,True,passed,direct=4 factor=4
+59,3,233,2796,"F3: a=3, b=p=4d-3",233,hard_core_n_1_mod_24_reduces_to_mod_p,5592,True,reduction_found,"n mod p allowed=[0, 174]"
+79,2,314,628,"F2: a=2, b=2p, p=2d-1",157,prime_power_factorization_equals_direct_rule_set,628,True,passed,direct=2 factor=2
+79,2,314,628,"F2: a=2, b=2p, p=2d-1",157,hard_core_n_1_mod_24_reduces_to_mod_p,3768,True,reduction_found,"n mod p allowed=[0, 78]"
+31,56,68,952,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,952,True,passed,direct=4 factor=4
+31,56,68,952,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,2856,False,no_reduction_found,n mod p allowed=[]
+27,26,82,2132,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,2132,True,passed,direct=4 factor=4
+27,26,82,2132,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,12792,False,no_reduction_found,n mod p allowed=[]
+79,20,296,1480,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,1480,True,passed,direct=4 factor=4
+79,20,296,1480,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,4440,False,no_reduction_found,n mod p allowed=[]
+59,10,226,2260,"G: one dominant prime factor in lcm(a,b)",113,prime_power_factorization_equals_direct_rule_set,2260,True,passed,direct=4 factor=4
+59,10,226,2260,"G: one dominant prime factor in lcm(a,b)",113,hard_core_n_1_mod_24_reduces_to_mod_p,13560,False,no_reduction_found,n mod p allowed=[]
+15,17,43,2924,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,2924,True,passed,direct=4 factor=4
+15,17,43,2924,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,17544,False,no_reduction_found,n mod p allowed=[]
+59,30,206,6180,"G: one dominant prime factor in lcm(a,b)",103,prime_power_factorization_equals_direct_rule_set,6180,True,passed,direct=8 factor=8
+59,30,206,6180,"G: one dominant prime factor in lcm(a,b)",103,hard_core_n_1_mod_24_reduces_to_mod_p,12360,False,no_reduction_found,n mod p allowed=[]
+47,9,179,6444,"G: one dominant prime factor in lcm(a,b)",179,prime_power_factorization_equals_direct_rule_set,6444,True,passed,direct=4 factor=4
+47,9,179,6444,"G: one dominant prime factor in lcm(a,b)",179,hard_core_n_1_mod_24_reduces_to_mod_p,12888,False,no_reduction_found,n mod p allowed=[]
+43,26,146,3796,"G: one dominant prime factor in lcm(a,b)",73,prime_power_factorization_equals_direct_rule_set,3796,True,passed,direct=4 factor=4
+43,26,146,3796,"G: one dominant prime factor in lcm(a,b)",73,hard_core_n_1_mod_24_reduces_to_mod_p,22776,False,no_reduction_found,n mod p allowed=[]
+55,32,188,1504,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,1504,True,passed,direct=2 factor=2
+55,32,188,1504,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,4512,False,no_reduction_found,n mod p allowed=[]
+71,120,164,4920,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,4920,True,passed,direct=8 factor=8
+71,120,164,4920,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,4920,False,no_reduction_found,n mod p allowed=[]
+31,50,74,3700,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,3700,True,passed,direct=4 factor=4
+31,50,74,3700,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,22200,False,no_reduction_found,n mod p allowed=[]
+71,72,212,3816,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,3816,True,passed,direct=4 factor=4
+71,72,212,3816,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,3816,False,no_reduction_found,n mod p allowed=[]
+39,64,92,1472,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,1472,True,passed,direct=2 factor=2
+39,64,92,1472,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,4416,False,no_reduction_found,n mod p allowed=[]
+71,36,248,2232,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,2232,True,passed,direct=4 factor=4
+71,36,248,2232,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,2232,False,no_reduction_found,n mod p allowed=[]
+47,14,174,2436,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,2436,True,passed,direct=8 factor=8
+47,14,174,2436,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,4872,False,no_reduction_found,n mod p allowed=[]
+27,7,101,2828,"G: one dominant prime factor in lcm(a,b)",101,prime_power_factorization_equals_direct_rule_set,2828,True,passed,direct=4 factor=4
+27,7,101,2828,"G: one dominant prime factor in lcm(a,b)",101,hard_core_n_1_mod_24_reduces_to_mod_p,16968,False,no_reduction_found,n mod p allowed=[]
+83,6,326,1956,"F4: a=6, b=2p, p=2d-3",163,prime_power_factorization_equals_direct_rule_set,1956,True,passed,direct=4 factor=4
+83,6,326,1956,"F4: a=6, b=2p, p=2d-3",163,hard_core_n_1_mod_24_reduces_to_mod_p,3912,True,reduction_found,"n mod p allowed=[0, 80]"
+39,40,116,1160,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,1160,True,passed,direct=4 factor=4
+39,40,116,1160,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,3480,False,no_reduction_found,n mod p allowed=[]
+35,11,129,5676,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,5676,True,passed,direct=8 factor=8
+35,11,129,5676,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,11352,False,no_reduction_found,n mod p allowed=[]
+63,1,251,1004,"F1: a=1, b=p=4d-1",251,prime_power_factorization_equals_direct_rule_set,1004,True,passed,direct=2 factor=2
+63,1,251,1004,"F1: a=1, b=p=4d-1",251,hard_core_n_1_mod_24_reduces_to_mod_p,6024,True,reduction_found,"n mod p allowed=[0, 188]"
+35,66,74,4884,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,4884,True,passed,direct=8 factor=8
+35,66,74,4884,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,9768,False,no_reduction_found,n mod p allowed=[]
+71,16,268,1072,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,1072,True,passed,direct=2 factor=2
+71,16,268,1072,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,3216,False,no_reduction_found,n mod p allowed=[]
+71,48,236,2832,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,2832,True,passed,direct=4 factor=4
+71,48,236,2832,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,2832,False,no_reduction_found,n mod p allowed=[]
+87,2,346,692,"F2: a=2, b=2p, p=2d-1",173,prime_power_factorization_equals_direct_rule_set,692,True,passed,direct=2 factor=2
+87,2,346,692,"F2: a=2, b=2p, p=2d-1",173,hard_core_n_1_mod_24_reduces_to_mod_p,4152,True,reduction_found,"n mod p allowed=[0, 86]"
+71,5,279,5580,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,5580,True,passed,direct=8 factor=8
+71,5,279,5580,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,11160,False,no_reduction_found,n mod p allowed=[]
+23,31,61,7564,"G: one dominant prime factor in lcm(a,b)",61,prime_power_factorization_equals_direct_rule_set,7564,True,passed,direct=4 factor=4
+23,31,61,7564,"G: one dominant prime factor in lcm(a,b)",61,hard_core_n_1_mod_24_reduces_to_mod_p,45384,False,no_reduction_found,n mod p allowed=[]
+47,21,167,14028,"G: one dominant prime factor in lcm(a,b)",167,prime_power_factorization_equals_direct_rule_set,14028,True,passed,direct=8 factor=8
+47,21,167,14028,"G: one dominant prime factor in lcm(a,b)",167,hard_core_n_1_mod_24_reduces_to_mod_p,28056,False,no_reduction_found,n mod p allowed=[]
+71,12,272,816,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,816,True,passed,direct=4 factor=4
+71,12,272,816,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,816,False,no_reduction_found,n mod p allowed=[]
+71,40,244,2440,"G: one dominant prime factor in lcm(a,b)",61,prime_power_factorization_equals_direct_rule_set,2440,True,passed,direct=4 factor=4
+71,40,244,2440,"G: one dominant prime factor in lcm(a,b)",61,hard_core_n_1_mod_24_reduces_to_mod_p,7320,False,no_reduction_found,n mod p allowed=[]
+35,54,86,4644,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,4644,True,passed,direct=4 factor=4
+35,54,86,4644,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,9288,False,no_reduction_found,n mod p allowed=[]
+95,36,344,3096,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,3096,True,passed,direct=4 factor=4
+95,36,344,3096,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,3096,False,no_reduction_found,n mod p allowed=[]
+47,7,181,5068,"G: one dominant prime factor in lcm(a,b)",181,prime_power_factorization_equals_direct_rule_set,5068,True,passed,direct=4 factor=4
+47,7,181,5068,"G: one dominant prime factor in lcm(a,b)",181,hard_core_n_1_mod_24_reduces_to_mod_p,30408,False,no_reduction_found,n mod p allowed=[]
+119,4,472,472,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,472,True,passed,direct=2 factor=2
+119,4,472,472,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,1416,True,reduction_found,"n mod p allowed=[0, 58]"
+35,27,113,12204,"G: one dominant prime factor in lcm(a,b)",113,prime_power_factorization_equals_direct_rule_set,12204,True,passed,direct=4 factor=4
+35,27,113,12204,"G: one dominant prime factor in lcm(a,b)",113,hard_core_n_1_mod_24_reduces_to_mod_p,24408,False,no_reduction_found,n mod p allowed=[]
+59,50,186,9300,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,9300,True,passed,direct=8 factor=8
+59,50,186,9300,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,18600,False,no_reduction_found,n mod p allowed=[]
+71,1,283,1132,"F1: a=1, b=p=4d-1",283,prime_power_factorization_equals_direct_rule_set,1132,True,passed,direct=2 factor=2
+71,1,283,1132,"F1: a=1, b=p=4d-1",283,hard_core_n_1_mod_24_reduces_to_mod_p,6792,True,reduction_found,"n mod p allowed=[0, 212]"
+107,2,426,852,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,852,True,passed,direct=4 factor=4
+107,2,426,852,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,1704,True,reduction_found,"n mod p allowed=[0, 35]"
+55,104,116,3016,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,3016,True,passed,direct=4 factor=4
+55,104,116,3016,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,9048,False,no_reduction_found,n mod p allowed=[]
+95,24,356,2136,"F5: a=24, b=4p, p=d-6",89,prime_power_factorization_equals_direct_rule_set,2136,True,passed,direct=4 factor=4
+95,24,356,2136,"F5: a=24, b=4p, p=d-6",89,hard_core_n_1_mod_24_reduces_to_mod_p,2136,True,reduction_found,"n mod p allowed=[0, 83]"
+27,46,62,2852,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,2852,True,passed,direct=4 factor=4
+27,46,62,2852,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,17112,False,no_reduction_found,n mod p allowed=[]
+71,30,254,7620,"G: one dominant prime factor in lcm(a,b)",127,prime_power_factorization_equals_direct_rule_set,7620,True,passed,direct=8 factor=8
+71,30,254,7620,"G: one dominant prime factor in lcm(a,b)",127,hard_core_n_1_mod_24_reduces_to_mod_p,15240,False,no_reduction_found,n mod p allowed=[]
+71,3,281,3372,"F3: a=3, b=p=4d-3",281,prime_power_factorization_equals_direct_rule_set,3372,True,passed,direct=4 factor=4
+71,3,281,3372,"F3: a=3, b=p=4d-3",281,hard_core_n_1_mod_24_reduces_to_mod_p,6744,True,reduction_found,"n mod p allowed=[0, 210]"
+71,6,278,1668,"F4: a=6, b=2p, p=2d-3",139,prime_power_factorization_equals_direct_rule_set,1668,True,passed,direct=4 factor=4
+71,6,278,1668,"F4: a=6, b=2p, p=2d-3",139,hard_core_n_1_mod_24_reduces_to_mod_p,3336,True,reduction_found,"n mod p allowed=[0, 68]"
+51,5,199,3980,"G: one dominant prime factor in lcm(a,b)",199,prime_power_factorization_equals_direct_rule_set,3980,True,passed,direct=4 factor=4
+51,5,199,3980,"G: one dominant prime factor in lcm(a,b)",199,hard_core_n_1_mod_24_reduces_to_mod_p,23880,False,no_reduction_found,n mod p allowed=[]
+143,8,564,1128,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,1128,True,passed,direct=4 factor=4
+143,8,564,1128,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,1128,True,reduction_found,"n mod p allowed=[0, 45]"
+39,32,124,992,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,992,True,passed,direct=2 factor=2
+39,32,124,992,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,2976,False,no_reduction_found,n mod p allowed=[]
+59,18,218,3924,"G: one dominant prime factor in lcm(a,b)",109,prime_power_factorization_equals_direct_rule_set,3924,True,passed,direct=4 factor=4
+59,18,218,3924,"G: one dominant prime factor in lcm(a,b)",109,hard_core_n_1_mod_24_reduces_to_mod_p,7848,False,no_reduction_found,n mod p allowed=[]
+39,50,106,5300,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,5300,True,passed,direct=4 factor=4
+39,50,106,5300,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,31800,False,no_reduction_found,n mod p allowed=[]
+35,22,118,2596,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,2596,True,passed,direct=4 factor=4
+35,22,118,2596,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,15576,False,no_reduction_found,n mod p allowed=[]
+59,9,227,8172,"G: one dominant prime factor in lcm(a,b)",227,prime_power_factorization_equals_direct_rule_set,8172,True,passed,direct=4 factor=4
+59,9,227,8172,"G: one dominant prime factor in lcm(a,b)",227,hard_core_n_1_mod_24_reduces_to_mod_p,16344,False,no_reduction_found,n mod p allowed=[]
+19,29,47,5452,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,5452,True,passed,direct=4 factor=4
+19,29,47,5452,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,32712,False,no_reduction_found,n mod p allowed=[]
+79,158,158,316,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,316,True,passed,direct=1 factor=1
+79,158,158,316,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,1896,True,reduction_found,n mod p allowed=[0]
+31,35,89,12460,"G: one dominant prime factor in lcm(a,b)",89,prime_power_factorization_equals_direct_rule_set,12460,True,passed,direct=8 factor=8
+31,35,89,12460,"G: one dominant prime factor in lcm(a,b)",89,hard_core_n_1_mod_24_reduces_to_mod_p,74760,False,no_reduction_found,n mod p allowed=[]
+63,88,164,3608,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,3608,True,passed,direct=4 factor=4
+63,88,164,3608,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,10824,False,no_reduction_found,n mod p allowed=[]
+95,52,328,4264,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,4264,True,passed,direct=4 factor=4
+95,52,328,4264,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,12792,False,no_reduction_found,n mod p allowed=[]
+119,12,464,1392,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,1392,True,passed,direct=4 factor=4
+119,12,464,1392,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,1392,False,no_reduction_found,n mod p allowed=[]
+119,2,474,948,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,948,True,passed,direct=4 factor=4
+119,2,474,948,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,1896,True,reduction_found,"n mod p allowed=[0, 39]"
+19,17,59,4012,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,4012,True,passed,direct=4 factor=4
+19,17,59,4012,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,24072,False,no_reduction_found,n mod p allowed=[]
+95,6,374,2244,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,2244,True,passed,direct=8 factor=8
+95,6,374,2244,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,4488,False,no_reduction_found,n mod p allowed=[]
+15,19,41,3116,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,3116,True,passed,direct=4 factor=4
+15,19,41,3116,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,18696,False,no_reduction_found,n mod p allowed=[]
+75,1,299,1196,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,1196,True,passed,direct=4 factor=4
+75,1,299,1196,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,7176,False,no_reduction_found,n mod p allowed=[]
+91,2,362,724,"F2: a=2, b=2p, p=2d-1",181,prime_power_factorization_equals_direct_rule_set,724,True,passed,direct=2 factor=2
+91,2,362,724,"F2: a=2, b=2p, p=2d-1",181,hard_core_n_1_mod_24_reduces_to_mod_p,4344,True,reduction_found,"n mod p allowed=[0, 90]"
+103,8,404,808,"G: one dominant prime factor in lcm(a,b)",101,prime_power_factorization_equals_direct_rule_set,808,True,passed,direct=2 factor=2
+103,8,404,808,"G: one dominant prime factor in lcm(a,b)",101,hard_core_n_1_mod_24_reduces_to_mod_p,2424,True,reduction_found,"n mod p allowed=[0, 99]"
+87,7,341,9548,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,9548,True,passed,direct=8 factor=8
+87,7,341,9548,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,57288,False,no_reduction_found,n mod p allowed=[]
+63,64,188,3008,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,3008,True,passed,direct=2 factor=2
+63,64,188,3008,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,9024,False,no_reduction_found,n mod p allowed=[]
+55,56,164,2296,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,2296,True,passed,direct=4 factor=4
+55,56,164,2296,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,6888,False,no_reduction_found,n mod p allowed=[]
+119,6,470,2820,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,2820,True,passed,direct=8 factor=8
+119,6,470,2820,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,5640,False,no_reduction_found,n mod p allowed=[]
+75,13,287,14924,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,14924,True,passed,direct=8 factor=8
+75,13,287,14924,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,89544,False,no_reduction_found,n mod p allowed=[]
+99,2,394,788,"F2: a=2, b=2p, p=2d-1",197,prime_power_factorization_equals_direct_rule_set,788,True,passed,direct=2 factor=2
+99,2,394,788,"F2: a=2, b=2p, p=2d-1",197,hard_core_n_1_mod_24_reduces_to_mod_p,4728,True,reduction_found,"n mod p allowed=[0, 98]"
+135,4,536,536,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,536,True,passed,direct=2 factor=2
+135,4,536,536,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,1608,True,reduction_found,"n mod p allowed=[0, 66]"
+95,3,377,4524,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,4524,True,passed,direct=8 factor=8
+95,3,377,4524,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,9048,False,no_reduction_found,n mod p allowed=[]
+47,54,134,7236,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,7236,True,passed,direct=4 factor=4
+47,54,134,7236,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,14472,False,no_reduction_found,n mod p allowed=[]
+71,71,213,852,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,852,True,passed,direct=2 factor=2
+71,71,213,852,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,1704,True,reduction_found,n mod p allowed=[0]
+111,20,424,2120,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,2120,True,passed,direct=4 factor=4
+111,20,424,2120,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,6360,False,no_reduction_found,n mod p allowed=[]
+39,22,134,2948,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,2948,True,passed,direct=4 factor=4
+39,22,134,2948,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,17688,False,no_reduction_found,n mod p allowed=[]
+87,16,332,1328,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,1328,True,passed,direct=2 factor=2
+87,16,332,1328,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,3984,False,no_reduction_found,n mod p allowed=[]
+83,1,331,1324,"F1: a=1, b=p=4d-1",331,prime_power_factorization_equals_direct_rule_set,1324,True,passed,direct=2 factor=2
+83,1,331,1324,"F1: a=1, b=p=4d-1",331,hard_core_n_1_mod_24_reduces_to_mod_p,7944,True,reduction_found,"n mod p allowed=[0, 248]"
+119,16,460,1840,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,1840,True,passed,direct=4 factor=4
+119,16,460,1840,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,5520,False,no_reduction_found,n mod p allowed=[]
+55,26,194,5044,"G: one dominant prime factor in lcm(a,b)",97,prime_power_factorization_equals_direct_rule_set,5044,True,passed,direct=4 factor=4
+55,26,194,5044,"G: one dominant prime factor in lcm(a,b)",97,hard_core_n_1_mod_24_reduces_to_mod_p,30264,False,no_reduction_found,n mod p allowed=[]
+35,38,102,3876,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,3876,True,passed,direct=8 factor=8
+35,38,102,3876,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,7752,False,no_reduction_found,n mod p allowed=[]
+143,4,568,568,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,568,True,passed,direct=2 factor=2
+143,4,568,568,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,1704,True,reduction_found,"n mod p allowed=[0, 70]"
+111,8,436,872,"G: one dominant prime factor in lcm(a,b)",109,prime_power_factorization_equals_direct_rule_set,872,True,passed,direct=2 factor=2
+111,8,436,872,"G: one dominant prime factor in lcm(a,b)",109,hard_core_n_1_mod_24_reduces_to_mod_p,2616,True,reduction_found,"n mod p allowed=[0, 107]"
+55,92,128,2944,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,2944,True,passed,direct=2 factor=2
+55,92,128,2944,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,8832,False,no_reduction_found,n mod p allowed=[]
+59,42,194,8148,"G: one dominant prime factor in lcm(a,b)",97,prime_power_factorization_equals_direct_rule_set,8148,True,passed,direct=8 factor=8
+59,42,194,8148,"G: one dominant prime factor in lcm(a,b)",97,hard_core_n_1_mod_24_reduces_to_mod_p,16296,False,no_reduction_found,n mod p allowed=[]
+87,1,347,1388,"F1: a=1, b=p=4d-1",347,prime_power_factorization_equals_direct_rule_set,1388,True,passed,direct=2 factor=2
+87,1,347,1388,"F1: a=1, b=p=4d-1",347,hard_core_n_1_mod_24_reduces_to_mod_p,8328,True,reduction_found,"n mod p allowed=[0, 260]"
+27,47,61,11468,"G: one dominant prime factor in lcm(a,b)",61,prime_power_factorization_equals_direct_rule_set,11468,True,passed,direct=4 factor=4
+27,47,61,11468,"G: one dominant prime factor in lcm(a,b)",61,hard_core_n_1_mod_24_reduces_to_mod_p,68808,False,no_reduction_found,n mod p allowed=[]
+119,24,452,2712,"F5: a=24, b=4p, p=d-6",113,prime_power_factorization_equals_direct_rule_set,2712,True,passed,direct=4 factor=4
+119,24,452,2712,"F5: a=24, b=4p, p=d-6",113,hard_core_n_1_mod_24_reduces_to_mod_p,2712,True,reduction_found,"n mod p allowed=[0, 107]"
+59,21,215,18060,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,18060,True,passed,direct=16 factor=16
+59,21,215,18060,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,36120,False,no_reduction_found,n mod p allowed=[]
+107,6,422,2532,"F4: a=6, b=2p, p=2d-3",211,prime_power_factorization_equals_direct_rule_set,2532,True,passed,direct=4 factor=4
+107,6,422,2532,"F4: a=6, b=2p, p=2d-3",211,hard_core_n_1_mod_24_reduces_to_mod_p,5064,True,reduction_found,"n mod p allowed=[0, 104]"
+131,6,518,3108,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,3108,True,passed,direct=8 factor=8
+131,6,518,3108,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,6216,False,no_reduction_found,n mod p allowed=[]
+55,14,206,2884,"G: one dominant prime factor in lcm(a,b)",103,prime_power_factorization_equals_direct_rule_set,2884,True,passed,direct=4 factor=4
+55,14,206,2884,"G: one dominant prime factor in lcm(a,b)",103,hard_core_n_1_mod_24_reduces_to_mod_p,17304,False,no_reduction_found,n mod p allowed=[]
+83,66,266,17556,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,17556,True,passed,direct=16 factor=16
+83,66,266,17556,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,35112,False,no_reduction_found,n mod p allowed=[]
+79,32,284,2272,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,2272,True,passed,direct=2 factor=2
+79,32,284,2272,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,6816,False,no_reduction_found,n mod p allowed=[]
+59,7,229,6412,"G: one dominant prime factor in lcm(a,b)",229,prime_power_factorization_equals_direct_rule_set,6412,True,passed,direct=4 factor=4
+59,7,229,6412,"G: one dominant prime factor in lcm(a,b)",229,hard_core_n_1_mod_24_reduces_to_mod_p,38472,False,no_reduction_found,n mod p allowed=[]
+95,48,332,3984,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,3984,True,passed,direct=4 factor=4
+95,48,332,3984,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,3984,False,no_reduction_found,n mod p allowed=[]
+39,25,131,13100,"G: one dominant prime factor in lcm(a,b)",131,prime_power_factorization_equals_direct_rule_set,13100,True,passed,direct=4 factor=4
+39,25,131,13100,"G: one dominant prime factor in lcm(a,b)",131,hard_core_n_1_mod_24_reduces_to_mod_p,78600,False,no_reduction_found,n mod p allowed=[]
+35,41,99,16236,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,16236,True,passed,direct=8 factor=8
+35,41,99,16236,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,32472,False,no_reduction_found,n mod p allowed=[]
+95,26,354,9204,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,9204,True,passed,direct=8 factor=8
+95,26,354,9204,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,18408,False,no_reduction_found,n mod p allowed=[]
+119,32,444,3552,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,3552,True,passed,direct=4 factor=4
+119,32,444,3552,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,3552,False,no_reduction_found,n mod p allowed=[]
+31,38,86,3268,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,3268,True,passed,direct=4 factor=4
+31,38,86,3268,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,19608,False,no_reduction_found,n mod p allowed=[]
+35,47,93,17484,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,17484,True,passed,direct=8 factor=8
+35,47,93,17484,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,34968,False,no_reduction_found,n mod p allowed=[]
+27,34,74,2516,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,2516,True,passed,direct=4 factor=4
+27,34,74,2516,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,15096,False,no_reduction_found,n mod p allowed=[]
+35,17,123,8364,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,8364,True,passed,direct=8 factor=8
+35,17,123,8364,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,16728,False,no_reduction_found,n mod p allowed=[]
+59,90,146,13140,"G: one dominant prime factor in lcm(a,b)",73,prime_power_factorization_equals_direct_rule_set,13140,True,passed,direct=8 factor=8
+59,90,146,13140,"G: one dominant prime factor in lcm(a,b)",73,hard_core_n_1_mod_24_reduces_to_mod_p,26280,False,no_reduction_found,n mod p allowed=[]
+71,10,274,2740,"G: one dominant prime factor in lcm(a,b)",137,prime_power_factorization_equals_direct_rule_set,2740,True,passed,direct=4 factor=4
+71,10,274,2740,"G: one dominant prime factor in lcm(a,b)",137,hard_core_n_1_mod_24_reduces_to_mod_p,16440,False,no_reduction_found,n mod p allowed=[]
+87,56,292,4088,"G: one dominant prime factor in lcm(a,b)",73,prime_power_factorization_equals_direct_rule_set,4088,True,passed,direct=4 factor=4
+87,56,292,4088,"G: one dominant prime factor in lcm(a,b)",73,hard_core_n_1_mod_24_reduces_to_mod_p,12264,False,no_reduction_found,n mod p allowed=[]
+79,80,236,4720,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,4720,True,passed,direct=4 factor=4
+79,80,236,4720,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,14160,False,no_reduction_found,n mod p allowed=[]
+23,19,73,5548,"G: one dominant prime factor in lcm(a,b)",73,prime_power_factorization_equals_direct_rule_set,5548,True,passed,direct=4 factor=4
+23,19,73,5548,"G: one dominant prime factor in lcm(a,b)",73,hard_core_n_1_mod_24_reduces_to_mod_p,33288,False,no_reduction_found,n mod p allowed=[]
+71,68,216,3672,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,3672,True,passed,direct=4 factor=4
+71,68,216,3672,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,3672,False,no_reduction_found,n mod p allowed=[]
+83,83,249,996,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,996,True,passed,direct=2 factor=2
+83,83,249,996,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,1992,True,reduction_found,n mod p allowed=[0]
+35,33,107,14124,"G: one dominant prime factor in lcm(a,b)",107,prime_power_factorization_equals_direct_rule_set,14124,True,passed,direct=8 factor=8
+35,33,107,14124,"G: one dominant prime factor in lcm(a,b)",107,hard_core_n_1_mod_24_reduces_to_mod_p,28248,False,no_reduction_found,n mod p allowed=[]
+59,86,150,12900,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,12900,True,passed,direct=8 factor=8
+59,86,150,12900,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,25800,False,no_reduction_found,n mod p allowed=[]
+95,1,379,1516,"F1: a=1, b=p=4d-1",379,prime_power_factorization_equals_direct_rule_set,1516,True,passed,direct=2 factor=2
+95,1,379,1516,"F1: a=1, b=p=4d-1",379,hard_core_n_1_mod_24_reduces_to_mod_p,9096,True,reduction_found,"n mod p allowed=[0, 284]"
+95,68,312,5304,"G: one dominant prime factor in lcm(a,b)",17,prime_power_factorization_equals_direct_rule_set,5304,True,passed,direct=8 factor=8
+95,68,312,5304,"G: one dominant prime factor in lcm(a,b)",17,hard_core_n_1_mod_24_reduces_to_mod_p,5304,False,no_reduction_found,n mod p allowed=[]
+143,56,516,7224,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,7224,True,passed,direct=8 factor=8
+143,56,516,7224,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,7224,False,no_reduction_found,n mod p allowed=[]
+71,15,269,16140,"G: one dominant prime factor in lcm(a,b)",269,prime_power_factorization_equals_direct_rule_set,16140,True,passed,direct=8 factor=8
+71,15,269,16140,"G: one dominant prime factor in lcm(a,b)",269,hard_core_n_1_mod_24_reduces_to_mod_p,32280,False,no_reduction_found,n mod p allowed=[]
+59,70,166,11620,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,11620,True,passed,direct=8 factor=8
+59,70,166,11620,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,69720,False,no_reduction_found,n mod p allowed=[]
+51,46,158,7268,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,7268,True,passed,direct=4 factor=4
+51,46,158,7268,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,43608,False,no_reduction_found,n mod p allowed=[]
+87,14,334,4676,"G: one dominant prime factor in lcm(a,b)",167,prime_power_factorization_equals_direct_rule_set,4676,True,passed,direct=4 factor=4
+87,14,334,4676,"G: one dominant prime factor in lcm(a,b)",167,hard_core_n_1_mod_24_reduces_to_mod_p,28056,False,no_reduction_found,n mod p allowed=[]
+63,68,184,3128,"G: one dominant prime factor in lcm(a,b)",23,prime_power_factorization_equals_direct_rule_set,3128,True,passed,direct=4 factor=4
+63,68,184,3128,"G: one dominant prime factor in lcm(a,b)",23,hard_core_n_1_mod_24_reduces_to_mod_p,9384,False,no_reduction_found,n mod p allowed=[]
+99,1,395,1580,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,1580,True,passed,direct=4 factor=4
+99,1,395,1580,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,9480,False,no_reduction_found,n mod p allowed=[]
+35,29,111,12876,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,12876,True,passed,direct=8 factor=8
+35,29,111,12876,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,25752,False,no_reduction_found,n mod p allowed=[]
+87,32,316,2528,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,2528,True,passed,direct=2 factor=2
+87,32,316,2528,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,7584,False,no_reduction_found,n mod p allowed=[]
+95,96,284,6816,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,6816,True,passed,direct=4 factor=4
+95,96,284,6816,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,6816,False,no_reduction_found,n mod p allowed=[]
+35,57,83,18924,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,18924,True,passed,direct=8 factor=8
+35,57,83,18924,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,37848,False,no_reduction_found,n mod p allowed=[]
+59,45,191,34380,"G: one dominant prime factor in lcm(a,b)",191,prime_power_factorization_equals_direct_rule_set,34380,True,passed,direct=8 factor=8
+59,45,191,34380,"G: one dominant prime factor in lcm(a,b)",191,hard_core_n_1_mod_24_reduces_to_mod_p,68760,False,no_reduction_found,n mod p allowed=[]
+159,4,632,632,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,632,True,passed,direct=2 factor=2
+159,4,632,632,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,1896,True,reduction_found,"n mod p allowed=[0, 78]"
+39,55,101,22220,"G: one dominant prime factor in lcm(a,b)",101,prime_power_factorization_equals_direct_rule_set,22220,True,passed,direct=8 factor=8
+39,55,101,22220,"G: one dominant prime factor in lcm(a,b)",101,hard_core_n_1_mod_24_reduces_to_mod_p,133320,False,no_reduction_found,n mod p allowed=[]
+83,18,314,5652,"G: one dominant prime factor in lcm(a,b)",157,prime_power_factorization_equals_direct_rule_set,5652,True,passed,direct=4 factor=4
+83,18,314,5652,"G: one dominant prime factor in lcm(a,b)",157,hard_core_n_1_mod_24_reduces_to_mod_p,11304,False,no_reduction_found,n mod p allowed=[]
+35,34,106,3604,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,3604,True,passed,direct=4 factor=4
+35,34,106,3604,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,21624,False,no_reduction_found,n mod p allowed=[]
+59,35,201,28140,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,28140,True,passed,direct=16 factor=16
+59,35,201,28140,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,56280,False,no_reduction_found,n mod p allowed=[]
+59,63,173,43596,"G: one dominant prime factor in lcm(a,b)",173,prime_power_factorization_equals_direct_rule_set,43596,True,passed,direct=8 factor=8
+59,63,173,43596,"G: one dominant prime factor in lcm(a,b)",173,hard_core_n_1_mod_24_reduces_to_mod_p,87192,False,no_reduction_found,n mod p allowed=[]
+83,3,329,3948,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,3948,True,passed,direct=8 factor=8
+83,3,329,3948,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,7896,False,no_reduction_found,n mod p allowed=[]
+79,5,311,6220,"G: one dominant prime factor in lcm(a,b)",311,prime_power_factorization_equals_direct_rule_set,6220,True,passed,direct=4 factor=4
+79,5,311,6220,"G: one dominant prime factor in lcm(a,b)",311,hard_core_n_1_mod_24_reduces_to_mod_p,37320,False,no_reduction_found,n mod p allowed=[]
+167,12,656,1968,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,1968,True,passed,direct=4 factor=4
+167,12,656,1968,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,1968,False,no_reduction_found,n mod p allowed=[]
+95,32,348,2784,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,2784,True,passed,direct=4 factor=4
+95,32,348,2784,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,2784,False,no_reduction_found,n mod p allowed=[]
+191,20,744,3720,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,3720,True,passed,direct=8 factor=8
+191,20,744,3720,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,3720,False,no_reduction_found,n mod p allowed=[]
+75,118,182,21476,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,21476,True,passed,direct=8 factor=8
+75,118,182,21476,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,128856,False,no_reduction_found,n mod p allowed=[]
+115,2,458,916,"F2: a=2, b=2p, p=2d-1",229,prime_power_factorization_equals_direct_rule_set,916,True,passed,direct=2 factor=2
+115,2,458,916,"F2: a=2, b=2p, p=2d-1",229,hard_core_n_1_mod_24_reduces_to_mod_p,5496,True,reduction_found,"n mod p allowed=[0, 114]"
+27,19,89,6764,"G: one dominant prime factor in lcm(a,b)",89,prime_power_factorization_equals_direct_rule_set,6764,True,passed,direct=4 factor=4
+27,19,89,6764,"G: one dominant prime factor in lcm(a,b)",89,hard_core_n_1_mod_24_reduces_to_mod_p,40584,False,no_reduction_found,n mod p allowed=[]
+167,4,664,664,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,664,True,passed,direct=2 factor=2
+167,4,664,664,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,1992,True,reduction_found,"n mod p allowed=[0, 82]"
+79,104,212,5512,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,5512,True,passed,direct=4 factor=4
+79,104,212,5512,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,16536,False,no_reduction_found,n mod p allowed=[]
+51,11,193,8492,"G: one dominant prime factor in lcm(a,b)",193,prime_power_factorization_equals_direct_rule_set,8492,True,passed,direct=4 factor=4
+51,11,193,8492,"G: one dominant prime factor in lcm(a,b)",193,hard_core_n_1_mod_24_reduces_to_mod_p,50952,False,no_reduction_found,n mod p allowed=[]
+143,36,536,4824,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,4824,True,passed,direct=4 factor=4
+143,36,536,4824,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,4824,False,no_reduction_found,n mod p allowed=[]
+27,29,79,9164,"G: one dominant prime factor in lcm(a,b)",79,prime_power_factorization_equals_direct_rule_set,9164,True,passed,direct=4 factor=4
+27,29,79,9164,"G: one dominant prime factor in lcm(a,b)",79,hard_core_n_1_mod_24_reduces_to_mod_p,54984,False,no_reduction_found,n mod p allowed=[]
+103,56,356,4984,"G: one dominant prime factor in lcm(a,b)",89,prime_power_factorization_equals_direct_rule_set,4984,True,passed,direct=4 factor=4
+103,56,356,4984,"G: one dominant prime factor in lcm(a,b)",89,hard_core_n_1_mod_24_reduces_to_mod_p,14952,False,no_reduction_found,n mod p allowed=[]
+71,124,160,4960,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,4960,True,passed,direct=4 factor=4
+71,124,160,4960,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,14880,False,no_reduction_found,n mod p allowed=[]
+143,14,558,7812,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,7812,True,passed,direct=8 factor=8
+143,14,558,7812,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,15624,False,no_reduction_found,n mod p allowed=[]
+143,24,548,3288,"F5: a=24, b=4p, p=d-6",137,prime_power_factorization_equals_direct_rule_set,3288,True,passed,direct=4 factor=4
+143,24,548,3288,"F5: a=24, b=4p, p=d-6",137,hard_core_n_1_mod_24_reduces_to_mod_p,3288,True,reduction_found,"n mod p allowed=[0, 131]"
+95,78,302,23556,"G: one dominant prime factor in lcm(a,b)",151,prime_power_factorization_equals_direct_rule_set,23556,True,passed,direct=8 factor=8
+95,78,302,23556,"G: one dominant prime factor in lcm(a,b)",151,hard_core_n_1_mod_24_reduces_to_mod_p,47112,False,no_reduction_found,n mod p allowed=[]
+27,41,67,10988,"G: one dominant prime factor in lcm(a,b)",67,prime_power_factorization_equals_direct_rule_set,10988,True,passed,direct=4 factor=4
+27,41,67,10988,"G: one dominant prime factor in lcm(a,b)",67,hard_core_n_1_mod_24_reduces_to_mod_p,65928,False,no_reduction_found,n mod p allowed=[]
+79,128,188,6016,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,6016,True,passed,direct=2 factor=2
+79,128,188,6016,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,18048,False,no_reduction_found,n mod p allowed=[]
+63,116,136,3944,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,3944,True,passed,direct=4 factor=4
+63,116,136,3944,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,11832,False,no_reduction_found,n mod p allowed=[]
+191,24,740,4440,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,4440,True,passed,direct=8 factor=8
+191,24,740,4440,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,4440,False,no_reduction_found,n mod p allowed=[]
+119,72,404,7272,"G: one dominant prime factor in lcm(a,b)",101,prime_power_factorization_equals_direct_rule_set,7272,True,passed,direct=4 factor=4
+119,72,404,7272,"G: one dominant prime factor in lcm(a,b)",101,hard_core_n_1_mod_24_reduces_to_mod_p,7272,False,no_reduction_found,n mod p allowed=[]
+111,16,428,1712,"G: one dominant prime factor in lcm(a,b)",107,prime_power_factorization_equals_direct_rule_set,1712,True,passed,direct=2 factor=2
+111,16,428,1712,"G: one dominant prime factor in lcm(a,b)",107,hard_core_n_1_mod_24_reduces_to_mod_p,5136,False,no_reduction_found,n mod p allowed=[]
+155,2,618,1236,"G: one dominant prime factor in lcm(a,b)",103,prime_power_factorization_equals_direct_rule_set,1236,True,passed,direct=4 factor=4
+155,2,618,1236,"G: one dominant prime factor in lcm(a,b)",103,hard_core_n_1_mod_24_reduces_to_mod_p,2472,True,reduction_found,"n mod p allowed=[0, 51]"
+31,23,101,9292,"G: one dominant prime factor in lcm(a,b)",101,prime_power_factorization_equals_direct_rule_set,9292,True,passed,direct=4 factor=4
+31,23,101,9292,"G: one dominant prime factor in lcm(a,b)",101,hard_core_n_1_mod_24_reduces_to_mod_p,55752,False,no_reduction_found,n mod p allowed=[]
+111,100,344,8600,"G: one dominant prime factor in lcm(a,b)",43,prime_power_factorization_equals_direct_rule_set,8600,True,passed,direct=4 factor=4
+111,100,344,8600,"G: one dominant prime factor in lcm(a,b)",43,hard_core_n_1_mod_24_reduces_to_mod_p,25800,False,no_reduction_found,n mod p allowed=[]
+83,14,318,4452,"G: one dominant prime factor in lcm(a,b)",53,prime_power_factorization_equals_direct_rule_set,4452,True,passed,direct=8 factor=8
+83,14,318,4452,"G: one dominant prime factor in lcm(a,b)",53,hard_core_n_1_mod_24_reduces_to_mod_p,8904,False,no_reduction_found,n mod p allowed=[]
+35,58,82,4756,"G: one dominant prime factor in lcm(a,b)",41,prime_power_factorization_equals_direct_rule_set,4756,True,passed,direct=4 factor=4
+35,58,82,4756,"G: one dominant prime factor in lcm(a,b)",41,hard_core_n_1_mod_24_reduces_to_mod_p,28536,False,no_reduction_found,n mod p allowed=[]
+75,7,293,8204,"G: one dominant prime factor in lcm(a,b)",293,prime_power_factorization_equals_direct_rule_set,8204,True,passed,direct=4 factor=4
+75,7,293,8204,"G: one dominant prime factor in lcm(a,b)",293,hard_core_n_1_mod_24_reduces_to_mod_p,49224,False,no_reduction_found,n mod p allowed=[]
+35,19,121,9196,"G: one dominant prime factor in lcm(a,b)",19,prime_power_factorization_equals_direct_rule_set,9196,True,passed,direct=4 factor=4
+35,19,121,9196,"G: one dominant prime factor in lcm(a,b)",19,hard_core_n_1_mod_24_reduces_to_mod_p,55176,False,no_reduction_found,n mod p allowed=[]
+191,12,752,2256,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,2256,True,passed,direct=4 factor=4
+191,12,752,2256,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,2256,False,no_reduction_found,n mod p allowed=[]
+27,37,71,10508,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,10508,True,passed,direct=4 factor=4
+27,37,71,10508,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,63048,False,no_reduction_found,n mod p allowed=[]
+51,25,179,17900,"G: one dominant prime factor in lcm(a,b)",179,prime_power_factorization_equals_direct_rule_set,17900,True,passed,direct=4 factor=4
+51,25,179,17900,"G: one dominant prime factor in lcm(a,b)",179,hard_core_n_1_mod_24_reduces_to_mod_p,107400,False,no_reduction_found,n mod p allowed=[]
+103,188,224,10528,"G: one dominant prime factor in lcm(a,b)",47,prime_power_factorization_equals_direct_rule_set,10528,True,passed,direct=4 factor=4
+103,188,224,10528,"G: one dominant prime factor in lcm(a,b)",47,hard_core_n_1_mod_24_reduces_to_mod_p,31584,False,no_reduction_found,n mod p allowed=[]
+111,40,404,4040,"G: one dominant prime factor in lcm(a,b)",101,prime_power_factorization_equals_direct_rule_set,4040,True,passed,direct=4 factor=4
+111,40,404,4040,"G: one dominant prime factor in lcm(a,b)",101,hard_core_n_1_mod_24_reduces_to_mod_p,12120,False,no_reduction_found,n mod p allowed=[]
+39,47,109,20492,"G: one dominant prime factor in lcm(a,b)",109,prime_power_factorization_equals_direct_rule_set,20492,True,passed,direct=4 factor=4
+39,47,109,20492,"G: one dominant prime factor in lcm(a,b)",109,hard_core_n_1_mod_24_reduces_to_mod_p,122952,False,no_reduction_found,n mod p allowed=[]
+159,16,620,2480,"G: one dominant prime factor in lcm(a,b)",31,prime_power_factorization_equals_direct_rule_set,2480,True,passed,direct=4 factor=4
+159,16,620,2480,"G: one dominant prime factor in lcm(a,b)",31,hard_core_n_1_mod_24_reduces_to_mod_p,7440,False,no_reduction_found,n mod p allowed=[]
+51,62,142,8804,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,8804,True,passed,direct=4 factor=4
+51,62,142,8804,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,52824,False,no_reduction_found,n mod p allowed=[]
+119,180,296,13320,"G: one dominant prime factor in lcm(a,b)",37,prime_power_factorization_equals_direct_rule_set,13320,True,passed,direct=8 factor=8
+119,180,296,13320,"G: one dominant prime factor in lcm(a,b)",37,hard_core_n_1_mod_24_reduces_to_mod_p,13320,False,no_reduction_found,n mod p allowed=[]
+51,38,166,6308,"G: one dominant prime factor in lcm(a,b)",83,prime_power_factorization_equals_direct_rule_set,6308,True,passed,direct=4 factor=4
+51,38,166,6308,"G: one dominant prime factor in lcm(a,b)",83,hard_core_n_1_mod_24_reduces_to_mod_p,37848,False,no_reduction_found,n mod p allowed=[]
+79,116,200,5800,"G: one dominant prime factor in lcm(a,b)",29,prime_power_factorization_equals_direct_rule_set,5800,True,passed,direct=4 factor=4
+79,116,200,5800,"G: one dominant prime factor in lcm(a,b)",29,hard_core_n_1_mod_24_reduces_to_mod_p,17400,False,no_reduction_found,n mod p allowed=[]
+71,90,194,17460,"G: one dominant prime factor in lcm(a,b)",97,prime_power_factorization_equals_direct_rule_set,17460,True,passed,direct=8 factor=8
+71,90,194,17460,"G: one dominant prime factor in lcm(a,b)",97,hard_core_n_1_mod_24_reduces_to_mod_p,34920,False,no_reduction_found,n mod p allowed=[]
+87,112,236,6608,"G: one dominant prime factor in lcm(a,b)",59,prime_power_factorization_equals_direct_rule_set,6608,True,passed,direct=4 factor=4
+87,112,236,6608,"G: one dominant prime factor in lcm(a,b)",59,hard_core_n_1_mod_24_reduces_to_mod_p,19824,False,no_reduction_found,n mod p allowed=[]
+139,2,554,1108,"F2: a=2, b=2p, p=2d-1",277,prime_power_factorization_equals_direct_rule_set,1108,True,passed,direct=2 factor=2
+139,2,554,1108,"F2: a=2, b=2p, p=2d-1",277,hard_core_n_1_mod_24_reduces_to_mod_p,6648,True,reduction_found,"n mod p allowed=[0, 138]"
+87,64,284,4544,"G: one dominant prime factor in lcm(a,b)",71,prime_power_factorization_equals_direct_rule_set,4544,True,passed,direct=2 factor=2
+87,64,284,4544,"G: one dominant prime factor in lcm(a,b)",71,hard_core_n_1_mod_24_reduces_to_mod_p,13632,False,no_reduction_found,n mod p allowed=[]

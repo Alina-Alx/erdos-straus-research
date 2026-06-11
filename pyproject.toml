@@ -1,0 +1,9 @@
+[project]
+name = "erdos-straus-research"
+version = "0.1.0"
+description = "Research tools for exploring the Erdos-Straus conjecture with exact arithmetic and residue-class diagnostics."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.py_compile]
+note = "No runtime dependencies; use python3 -m py_compile *.py for a syntax check."
