@@ -12,6 +12,7 @@ Recommended reading order:
 5. `compound_symbolic_cover_report.md`
 6. `family_negative_implication_report.md`
 7. `family_negative_obstruction_report.md`
+8. `prime_set_cover_lemma_report.md`
 
 The reports contain candidate lemmas and computational diagnostics only. They
 do not claim a proof of the Erdős-Straus conjecture.
